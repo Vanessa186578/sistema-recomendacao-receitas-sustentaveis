@@ -52,7 +52,7 @@ Isso representa uma redução aproximada de 33,4% na média do indicador WF, com
 
 Os resultados foram obtidos por avaliação offline, utilizando dados históricos da plataforma Planeat. Não representam uma validação com usuários em tempo real.
 
-Autores
+## Autores
 
 Felipe dos Santos Costa
 Felipe Yuji Nakanishi
