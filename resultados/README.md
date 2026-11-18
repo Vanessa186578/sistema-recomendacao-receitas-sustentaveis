@@ -4,13 +4,15 @@ Esta pasta reúne os resultados preliminares da avaliação offline dos modelos 
 
 ## Comparação dos modelos
 
-| Modelo | Precision@10 | Recall@10 | Média WF |
-|---|---:|---:|---:|
-| Popularidade | 1,17% | 11,73% | 550,1 |
-| Colaborativo | 1,34% | 13,41% | 407,3 |
-| Baseado em conteúdo | 0,41% | 4,10% | 388,6 |
-| Híbrido | 0,82% | 8,19% | 379,5 |
-| Colaborativo + WF | 1,28% | 12,85% | 270,1 |
+## Comparação dos modelos
+
+| Modelo | Recall@10 | Média WF |
+|---|---:|---:|
+| Popularidade | 17,88% | 556,75 |
+| Colaborativo | 19,37% | 420,04 |
+| Baseado em conteúdo | 3,17% | 346,42 |
+| Híbrido | 12,66% | 378,73 |
+| Colaborativo + WF | 18,25% | 279,78 |
 
 ## Principais observações
 
