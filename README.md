@@ -55,8 +55,11 @@ Os resultados foram obtidos por avaliação offline, utilizando dados histórico
 ## Autores
 
 Felipe dos Santos Costa
+
 Felipe Yuji Nakanishi
+
 Raphael Camargo Eugenio da Silva
+
 Vanessa Biesek Bartnicki
 
 Universidade Presbiteriana Mackenzie — 2026
