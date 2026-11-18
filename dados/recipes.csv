@@ -1,0 +1,814 @@
+id,name,ingredients,ingredients_quantity,wf
+444,Asparagi saltati in padella,"['asparagi', 'olio', 'sale']","['100gr', '5ml', '2gr']",263.25
+861,Baffo di ombrina scottato in padella,"['maggiorana', 'sale', 'olio', 'ombrina']","['2gr', '1.5gr', '5ml', '150gr']",437.46
+43,Baffo di salmone scottato in padella,"['sale', 'olio', 'prezzemolo', 'salmone']","['0.75gr', '1.5ml', '2gr', '150gr']",404.53
+52,Bastoncini di carote olio e limone,"['prezzemolo', 'olio', 'sale', 'limone succo', 'carote']","['2gr', '1.5ml', '9gr', '4ml', '100gr']",38.27
+644,Besciamella,"['sale', 'farina', 'burro', 'latte']","['10gr', '100gr', '100gr', '100ml']",868.4
+1143,Biscotti di pasta frolla,"['farina', 'limone', 'zucchero', 'uova', 'burro']","['250gr', '1unit', '125gr', '1unit', '1unit']",845.13
+1055,Bocconcini di pollo al curry,"['sale', 'olio', 'panna', 'cipolla', 'pollo', 'pollo']","['1gr', '1.5ml', '15ml', '10gr', '8gr', '120gr']",573.85
+1398,Bocconcini di pollo alla mediterranea,"['capperi olive', 'prezzemolo', 'sale', 'olio', 'cipolla', 'pomodori', 'pollo']","['25gr', '2gr', '2gr', '5ml', '10gr', '30gr', '120gr']",595.53
+1264,Bocconcini di pollo al limone,"['pollo', 'prezzemolo', 'farina', 'limone succo', 'sale', 'olio']","['120gr', '0.5gr', '10gr', '20ml', '1gr', '1.5ml']",556.68
+1354,Bowl,"['pomodori', 'radicchio', 'finocchi', 'carote', 'peperoni', 'riso', 'zucchine', 'tonno', 'spinacino', 'cipolla affettata']","['50gr', '20gr', '40gr', '40gr', '50gr', '140gr', '70gr', '100gr', '20gr', '20gr']",1985.31
+1070,Box Blu,"['vino', 'frolla', 'chantilly', 'vino', 'burro', 'aglio', 'tonno', 'mazzancolla', 'zucchine', 'basilico', 'cipolla', 'verdure dadolata', 'zucchine', 'dado', 'riso', 'mozzarella', 'salmone']","['20ml', '1None', '1unit', '1None', '1unit', '1unit', '10gr', '300gr', '160gr', '60gr', '4gr', '6gr', '300gr', '140gr', '40gr', '200gr', '120gr', '100gr']",3931.24
+1069,Box Rosso,"['scamone pistacchi mandorle', 'formaggio', 'frolla', 'vino', 'chantilly', 'vino', 'basilico', 'cipolla', 'verdure dadolata', 'zucchine', 'taleggio', 'speck', 'panna', 'gnocchi patate', 'prosciutto', 'stracciatella']","['360gr', '10gr', '1None', '1unit', '1None', '1unit', '4gr', '6gr', '300gr', '120gr', '60gr', '40gr', '100ml', '400gr', '80gr', '80gr']",6591.41
+1071,Box Verde,"['formaggio', 'olive', 'melanzane', 'frolla', 'chantilly', 'vino', 'caciocavallo', 'basilico', 'stracchino', 'zucchine', 'pomodori', 'cipolla', 'radicchio', 'gnocchi patate', 'pomodori', 'mozzarella']","['10gr', '30gr', '100gr', '1None', '1None', '1unit', '100gr', '6gr', '160gr', '80gr', '100gr', '10gr', '60gr', '400gr', '100gr', '120gr']",2904.61
+351,Branzino fresco intero al forno taglia 4/6,"['aglio', 'prezzemolo', 'sale', 'olio', 'branzino']","['2gr', '2gr', '2.5gr', '1.5ml', '400gr']",1053.21
+667,Bresaola con rucola e scaglie di formaggio,"['bresaola', 'limone succo', 'sale', 'rucola', 'formaggio', 'olio']","['50gr', '4ml', '2gr', '10gr', '20gr', '1.5ml']",880.16
+405,Broccoli lessi,"['sale', 'olio', 'broccoli']","['9gr', '5ml', '150gr']",91.0
+49,Broccoli saltati in padella,"['broccoli', 'olio', 'sale', 'aglio']","['150gr', '5ml', '8gr', '2gr']",92.18
+689,Brunch,"['pane', 'bacon', 'mirtillo', 'yogurt', 'pepe', 'sale', 'burro', 'latte', 'uova']","['40gr', '60gr', '25gr', '100gr', '1gr', '2gr', '5gr', '60ml', '3unit']",1049.38
+871,Burger di patate,"['olio', 'sale', 'rosmarino', 'salvia', 'formaggio', 'cipolla affettata', 'patate']","['5ml', '1.5gr', '3gr', '1gr', '10gr', '30gr', '140gr']",145.27
+922,Capasanta gratinata  (1pezzo),"['gratinatura', 'capasanta']","['40gr', '1unit']",61.3
+678,Caponata,"['pomodori', 'zucchero', 'pomodori', 'sedano', 'sale', 'olio', 'capperi olive', 'basilico', 'aceto', 'pinoli', 'cipolla affettata', 'melanzane']","['20gr', '2gr', '20gr', '10gr', '2gr', '10ml', '15gr', '1gr', '2ml', '5gr', '20gr', '120gr']",219.84
+156,Cappelletti freschi al prosciutto crudo in brodo vegetale,"['sale', 'olio', 'cappelletti prosciutto', 'verdure', 'formaggio']","['2gr', '5ml', '100gr', '62gr', '5gr']",523.4
+176,Caprese con mozzarella di bufala,"['pomodori', 'mozzarella', 'olio', 'sale', 'origano', 'basilico']","['120gr', '1unit', '5ml', '1gr', '1gr', '2gr']",430.84
+166,Carpaccio di zucchine,"['zucchine', 'olio', 'limone succo', 'sale', 'formaggio', 'menta']","['100gr', '1.5ml', '10ml', '1gr', '20gr', '1gr']",143.95
+207,Cavolfiori con pomodorini e olive taggiasche,"['cavolfiori', 'olio', 'sale', 'pomodori', 'olive', 'aglio', 'prezzemolo']","['120gr', '5ml', '9gr', '40gr', '10gr', '2gr', '2gr']",136.44
+404,Cavolfiori lessi,"['cavolfiori', 'sale', 'olio']","['150gr', '9gr', '5ml']",91.0
+1198,Cheesecake con salsa alle fragole,"['burro', 'zucchero', 'uova', 'fragole', 'panna', 'ricotta', 'biscotti']","['1unit', '150gr', '3unit', '1unit', '200ml', '200gr', '150gr']",2521.62
+1219,Colomba con nocciole e cioccolato (500 g),"['vino', 'cioccolato']","['1unit', '1unit']",395.88
+1218,Colomba con pere e cioccolato (500 g),"['cioccolato', 'vino']","['1unit', '1unit']",395.88
+168,Coscia di pollo aperta al forno,"['sale', 'pollo', 'rosmarino']","['1gr', '400gr', '2gr']",1730.71
+1404,Cotoletta di pesce spada,"['olio', 'spada impanata']","['1.5ml', '1unit']",661.93
+720,Cous cous con salmone e verdure,"['sale', 'basilico', 'couscous', 'verdure cous', 'salmone', 'sale', 'cipolla', 'olio']","['1gr', '2gr', '80gr', '130gr', '50gr', '1gr', '5gr', '5ml']",372.0
+719,Cous cous di carne e verdure,"['verdure cous', 'pollo', 'sale', 'sale', 'basilico', 'cipolla', 'olio', 'couscous']","['130gr', '50gr', '1gr', '1gr', '2gr', '5gr', '5ml', '80gr']",458.75
+718,Cous cous vegetariano,"['verdure cous', 'sale', 'sale', 'basilico', 'cipolla', 'olio', 'couscous']","['130gr', '2gr', '1gr', '2gr', '5gr', '8ml', '80gr']",271.45
+668,Crema allo yogurt con salsa alle pesche,"['latte', 'pesca', 'limone succo', 'panna', 'zucchero', 'yogurt gr']","['2unit', '1unit', '10ml', '150ml', '45gr', '1unit']",384.69
+202,Crema di carote,"['olio', 'sale', 'carote', 'cipolla', 'formaggio']","['1.5ml', '4gr', '200gr', '5gr', '5gr']",67.59
+818,Crema di zucca,"['pepe', 'formaggio', 'sale', 'olio', 'cipolla', 'zucca']","['1gr', '5gr', '4gr', '5ml', '5gr', '200gr']",149.72
+498,Crema estiva di zucchine e datterini,"['olio', 'sale', 'formaggio', 'zucchine', 'pomodori', 'aglio', 'basilico']","['10ml', '5gr', '5gr', '150gr', '50gr', '2gr', '2gr']",184.79
+503,Crema fredda di carote e asparagi con stracciatella  e menta,"['stracciatella', 'carote asparagi', 'olio', 'cipolla', 'sale', 'menta', 'formaggio']","['40gr', '150gr', '10ml', '5gr', '2gr', '2gr', '5gr']",584.42
+468,Crepes alla nutella,"['uova', 'latte', 'farina', 'burro', 'nutella', 'zucchero']","['1unit', '30ml', '30gr', '5gr', '6gr', '5gr']",279.48
+1146,Crostata con confettura di frutta,"['farina', 'albicocche', 'limone', 'uova', 'zucchero', 'burro']","['250gr', '1unit', '1unit', '1unit', '125gr', '1unit']",909.48
+1057,Cuore di scamone in crosta,"['scamone pistacchi mandorle', 'sale', 'olio']","['180gr', '1.5gr', '5ml']",2137.75
+41,Cuore di scamone scottato in padella,"['olio', 'sale', 'scamone', 'rosmarino']","['1.5ml', '1gr', '150gr', '3gr']",2315.24
+348,Dadolata di verdure,"['olio', 'verdure dadolata', 'basilico', 'cipolla']","['1.5ml', '150gr', '2gr', '3gr']",56.56
+441,Erbette fresche cotte in padella,"['sale', 'olio', 'erbette']","['1gr', '1.5ml', '150gr']",55.03
+1025,Fagottini sfiziosi,"['caciocavallo', 'olio', 'gratinatura', 'lonza']","['40gr', '3ml', '40gr', '120gr']",993.51
+981,Farfalle al tonno,"['basilico', 'formaggio', 'sale', 'olio', 'aglio', 'sale', 'olio', 'passata pomodoro', 'farfalle']","['2gr', '5gr', '1gr', '1.5ml', '2gr', '9gr', '30gr', '70gr', '90gr']",518.14
+1373,Farfalle con ricotta e salmone,"['olio', 'sale', 'ricotta', 'erba cipollina', 'salmone', 'farfalle']","['1.5ml', '9gr', '50gr', '2gr', '40gr', '80gr']",610.01
+106,Farfalle pomodoro e basilico,"['formaggio', 'olio', 'sale', 'sale', 'farfalle', 'basilico', 'passata pomodoro', 'cipolla']","['5gr', '1.5ml', '9gr', '1gr', '90gr', '2gr', '80gr', '5gr']",233.55
+657,Fettina di pollo gratinato in padella,"['olio', 'gratinatura', 'pollo']","['1.5ml', '20gr', '120gr']",542.73
+451,Fettina di spada scottato in padella,"['pesce spada', 'olio', 'limone succo', 'sale']","['120gr', '1.5ml', '5ml', '1gr']",215.36
+421,Fettina di tacchino scottato in padella,"['olio', 'sale', 'tacchino']","['1.5ml', '1gr', '100gr']",434.43
+1062,Fettina di tonno con granella di pistacchi e mandorle,"['tonno', 'sale', 'olio']","['150gr', '2gr', '5ml']",2360.5
+564,Fettina di tonno rosso scottato in padella,"['olio', 'limone succo', 'sale', 'tonno']","['5ml', '5ml', '2gr', '120gr']",1901.48
+998,Fettina di tonno scottato in padella,"['sale', 'limone succo', 'olio', 'tonno']","['1gr', '5ml', '1.5ml', '120gr']",1855.16
+1623,Fettina di vitello alla pizzaiola,"['aglio', 'sale', 'olio', 'origano', 'passata pomodoro', 'vitello']","['2gr', '1gr', '1.5ml', '0.02gr', '80gr', '120gr']",1890.76
+1242,Fettine di lonza gratinate,"['olio', 'gratinatura', 'lonza']","['10ml', '40gr', '120gr']",858.66
+1028,Fettine di lonza in padella,"['sale', 'olio', 'lonza']","['1gr', '1.5ml', '120gr']",720.49
+1238,Fettine di salmone in crosta di pistacchio,"['salmone pistacchio', 'sale', 'olio']","['1unit', '1gr', '1.5ml']",3490.18
+218,Filetti di peperoni saltati in padella,"['olio', 'sale', 'aceto', 'peperoni', 'prezzemolo']","['1.5ml', '1gr', '5ml', '150gr', '2gr']",79.54
+524,Filetti di sgombro in padella,"['sgombro', 'olio', 'sale']","['1unit', '5ml', '2gr']",307.25
+159,"Filetto di branzino con ciliegini, timo e olive taggiasche","['timo', 'olio', 'sale', 'branzino', 'pomodori', 'olive', 'aglio']","['2gr', '1.5ml', '1gr', '120gr', '20gr', '10gr', '2gr']",349.05
+342,Filetto di branzino scottato in padella,['branzino'],['120gr'],310.8
+173,Filetto di orata gratinato,"['olio', 'orata gr', 'gratinatura']","['1.5ml', '120gr', '25gr']",339.98
+350,Filetto di orata scottato in padella,"['orata gr', 'olio', 'sale']","['120gr', '1.5ml', '1gr']",312.73
+31,Filetto di pollo in padella,"['olio', 'sale', 'pollo']","['1.5ml', '1gr', '120gr']",520.93
+55,Finocchi gratinati,"['sale', 'olio', 'finocchi', 'formaggio']","['8gr', '1.5ml', '100gr', '10gr']",64.53
+1217,Focaccina farcita,"['mozzarella', 'caciocavallo', 'prosciutto', 'prosciutto', 'pomodori', 'focaccina']","['75gr', '20gr', '40gr', '50gr', '20gr', '1unit']",2022.67
+402,Fragole con panna fresca,"['fragole', 'panna', 'limone succo', 'zucchero']","['1unit', '150ml', '5ml', '2gr']",164.63
+446,Frittata agli asparagi,"['uova', 'formaggio', 'olio', 'aglio', 'sale', 'asparagi']","['2unit', '10gr', '5ml', '2gr', '2gr', '50gr']",449.14
+442,Frittata alle zucchine,"['uova', 'zucchine', 'formaggio', 'aglio', 'olio', 'sale']","['2unit', '70gr', '10gr', '2gr', '1.5ml', '1gr']",318.84
+1203,Frittata con le cipolle,"['sale', 'olio', 'formaggio', 'cipolla affettata', 'uova']","['1gr', '1.5ml', '10gr', '100gr', '2unit']",310.24
+1715,Frittata zucchine e provola affumicata,"['provola', 'sale', 'cipolla', 'olio', 'formaggio', 'zucchine', 'uova']","['10gr', '1gr', '5gr', '1.5ml', '5gr', '60gr', '2unit']",322.14
+776,Funghi trifolati,"['aglio', 'funghi', 'sale', 'prezzemolo', 'olio']","['2gr', '150gr', '1gr', '2gr', '1.5ml']",65.51
+357,Fusilli all'ortolana,"['basilico', 'fusilli', 'sale', 'sale', 'olio', 'passata pomodoro', 'verdure', 'cipolla', 'formaggio']","['2gr', '90gr', '9gr', '3gr', '1.5ml', '60gr', '40gr', '3gr', '5gr']",219.26
+615,Fusilli con asparagi e stracciatella,"['fusilli', 'asparagi', 'sale', 'olio', 'stracciatella']","['1gr', '1gr', '1gr', '1ml', '1gr']",20.56
+104,Fusilli con salmone fresco e pomodori ciliegini,"['sale', 'sale', 'olio', 'fusilli', 'pomodori', 'salmone', 'aglio', 'basilico']","['1gr', '9gr', '1.5ml', '90gr', '50gr', '40gr', '2gr', '2gr']",266.08
+428,Fusilli integrali ricotta pomodoro e basilico,"['fusilli', 'passata pomodoro', 'ricotta', 'sale', 'cipolla', 'olio', 'sale', 'basilico', 'formaggio']","['90gr', '60gr', '40gr', '9gr', '5gr', '1.5ml', '1gr', '2gr', '5gr']",490.32
+392,Girella di salsiccia,['salsiccia'],['150gr'],898.5
+812,Gnocchetti sardi con crema di pecorino e zafferano,"['pecorino', 'sale', 'zafferano', 'gnocchetti']","['80gr', '9gr', '0.001unit', '90gr']",1584.2
+100,Gnocchetti sardi con salsiccia e zucchine,"['gnocchetti', 'olio', 'sale', 'sale', 'passata pomodoro', 'salsiccia tagliata', 'zucchine', 'rosmarino', 'formaggio']","['90gr', '1.5ml', '9gr', '1gr', '80gr', '30gr', '30gr', '2gr', '5gr']",314.42
+354,Gnocchi di patate al gorgonzola,"['gorgonzola', 'prezzemolo', 'sale', 'sale', 'panna', 'gnocchi patate', 'formaggio']","['30gr', '2gr', '9gr', '1gr', '50ml', '200gr', '5gr']",400.34
+383,Gnocchi di patate alla sorrentina,"['gnocchi patate', 'olio', 'sale', 'sale', 'passata pomodoro', 'mozzarella', 'cipolla', 'basilico', 'formaggio']","['200gr', '1.5ml', '9gr', '1gr', '70gr', '20gr', '5gr', '2gr', '5gr']",418.35
+1263,Gnocchi di patate al pesto artigianale,"['pesto', 'formaggio', 'sale', 'gnocchi patate']","['30gr', '5gr', '9gr', '200gr']",390.7
+418,Gnocchi di patate  con ragù artigianale pronto,"['sale', 'gnocchi patate', 'ragù carne', 'formaggio']","['9gr', '200gr', '80gr', '5gr']",928.74
+1056,Gnocchi di patate con speck e taleggio,"['taleggio', 'formaggio', 'sale', 'sale', 'panna', 'speck', 'gnocchi patate']","['30gr', '5gr', '3gr', '9gr', '50ml', '20gr', '200gr']",562.46
+1061,Gnocchi di patate con stracchino e radicchio,"['cipolla', 'formaggio', 'stracchino', 'sale', 'sale', 'radicchio', 'gnocchi patate']","['5gr', '5gr', '80gr', '3gr', '9gr', '30gr', '200gr']",655.68
+46,Gnocchi di patate pomodoro e basilico,"['olio', 'sale', 'sale', 'passata pomodoro', 'cipolla', 'basilico', 'gnocchi patate', 'formaggio']","['10ml', '9gr', '1gr', '70gr', '5gr', '1gr', '200gr', '5gr']",370.22
+1026,Hamburger di ceci,"['olio', 'rosmarino', 'sale', 'patate', 'ceci']","['10ml', '1gr', '1.5gr', '50gr', '100gr']",528.9
+1044,Hamburger di legumi al curry,"['olio', 'hamburger polpette legumi']","['5ml', '170gr']",559.78
+257,Hamburger di manzo ai ferri,"['olio', 'sale', 'hamburger manzo']","['1.5ml', '1gr', '150gr']",1804.78
+1421,Hamburger di tonno fresco,"['erba cipollina', 'sale', 'pepe', 'olio', 'tonno']","['2gr', '2gr', '2gr', '5ml', '100gr']",1605.68
+1175,Hummus,"['cumino', 'sale', 'aglio', 'thaina', 'olio', 'limone succo', 'ceci', 'finocchi', 'carote', 'prezzemolo']","['2gr', '2gr', '2gr', '10gr', '15ml', '20ml', '125gr', '100gr', '100gr', '1gr']",752.09
+1213,Hummus fatto da Noi!,"['finocchi', 'carote', 'prezzemolo', 'hummus']","['100gr', '100gr', '2gr', '1unit']",1227.6
+722,Impepata di cozze,"['pepe', 'prezzemolo', 'aglio', 'olio', 'vino', 'cozze']","['1gr', '2gr', '2gr', '5ml', '5ml', '500gr']",1370.48
+1556,Indicazioni allergeni,['indicazioni allergeni'],['1unit'],366.0
+1455,Insalata di camone con feta,"['origano', 'sale', 'olio', 'feta', 'pomodori']","['0.2gr', '1gr', '1.5ml', '50gr', '200gr']",203.7
+64,Insalata di carote julienne,"['carote', 'olio', 'sale']","['90gr', '1.5ml', '1gr']",19.48
+1624,Insalata di ceci e verdure,"['insalata', 'limone succo', 'sale', 'olio', 'feta']","['165gr', '5ml', '1gr', '1.5ml', '40gr']",190.89
+1220,Insalata di code di gambero,['gamberi'],['200gr'],518.0
+386,Insalata di finocchi,"['finocchi', 'olio', 'aceto', 'sale']","['100gr', '1.5ml', '5ml', '1gr']",20.59
+1552,Insalata di pasta alla greca,"['olio', 'sale', 'feta', 'olive', 'pomodori', 'fusilli']","['5ml', '9gr', '40gr', '10gr', '50gr', '80gr']",347.74
+624,Insalata di pasta tricolore,"['pomodori', 'farfalle', 'sale', 'formaggio', 'pesto', 'olive', 'olio']","['60gr', '80gr', '9gr', '10gr', '15gr', '20gr', '1.5ml']",349.49
+506,Insalata di patate e fagiolini,"['sale', 'patate', 'fagiolini', 'prezzemolo', 'aceto']","['5gr', '100gr', '50gr', '2gr', '5ml']",76.81
+651,Insalata di pollo,"['pane', 'olio', 'formaggio', 'limone succo', 'pollo', 'insalata']","['1unit', '1.5ml', '20gr', '1ml', '100gr', '30gr']",873.94
+1356,Insalata di pollo con crostini,"[""crostini all'olio oliva"", 'limone succo', 'olio', 'formaggio', 'insalata', 'pollo']","['0.2unit', '1ml', '5ml', '20gr', '30gr', '100gr']",883.92
+203,Insalata di pomodori ciliegini,"['olio', 'sale', 'origano', 'pomodori', 'basilico']","['5ml', '2gr', '1gr', '100gr', '2gr']",70.71
+439,Insalata di pomodori verdi marmara,"['olio', 'sale', 'origano', 'pomodori', 'aceto']","['5ml', '2gr', '1gr', '100gr', '2ml']",72.66
+1230,Insalata di pomodoro cuore di bue,"['origano', 'sale', 'olio', 'pomodori']","['1gr', '2gr', '5ml', '200gr']",91.4
+66,Insalata di radicchio rosso tondo,"['radicchio', 'olio', 'sale']","['50gr', '4ml', '1gr']",56.3
+1239,Insalata di riso,"['carote', 'olive', 'olio', 'prosciutto', 'caciocavallo', 'riso', 'uova', 'pomodori']","['20gr', '50gr', '50gr', '50gr', '50gr', '1unit', '1unit', '50gr']",1338.73
+1400,Insalata di rucola,"['sale', 'olio', 'rucola']","['1gr', '3ml', '50gr']",46.65
+437,Insalata di spinacino fresco,"['spinacino', 'olio', 'aceto', 'sale']","['50gr', '5ml', '2ml', '1gr']",65.51
+61,Insalata milano tagliata pronta al consumo,"['olio', 'sale', 'insalata']","['3ml', '1gr', '50gr']",46.65
+67,Insalata mista,"['olio', 'sale', 'insalata']","['4ml', '1gr', '60gr']",59.84
+765,Insalata Novella tagliata pronta al consumo,"['insalata', 'sale', 'olio']","['40gr', '1gr', '3ml']",43.11
+767,Insalata songino pronta al consumo,"['sale', 'olio', 'insalata']","['1gr', '3ml', '50gr']",46.65
+1622,Insalatona,"['cetriolo', 'rucola', 'feta', 'carote', 'uova', 'olive', 'mais', 'pomodori', 'olio', 'mozzarella', 'insalata']","['30gr', '10gr', '50gr', '50gr', '1unit', '10gr', '10gr', '50gr', '50gr', '80gr', '50gr']",1421.0
+1355,Insalatona,"['cipolla affettata', 'uova', 'carote', 'pomodori', 'olive', 'olio', 'insalata']","['20gr', '1unit', '20gr', '50gr', '50gr', '50gr', '60gr']",793.12
+1501,Insalatona con tonno e mozzarella,"['insalata', 'radicchio', 'carote', 'pomodori', 'olio', 'nodini fiordilatte']","['40gr', '40gr', '60gr', '60gr', '40gr', '80gr']",567.98
+1060,Involtini di melanzane,"['pomodori', 'caciocavallo', 'olive', 'melanzane', 'basilico']","['50gr', '50gr', '15gr', '50gr', '3gr']",328.09
+954,Kit aperitivo e birra,"['birra', 'taralli patate', 'pomodori', 'olive', 'formaggio', 'salame rino', 'olio', 'stracciatella', 'salmone erba cipollina']","['2unit', '240gr', '40gr', '60gr', '60gr', '80gr', '30gr', '60gr', '60gr']",1922.06
+995,Kit aperitivo e spumante,"['vino', 'taralli patate', 'pomodori', 'olive', 'formaggio', 'salame rino', 'olio', 'stracciatella', 'salmone erba cipollina']","['1unit', '240gr', '40gr', '60gr', '60gr', '80gr', '30gr', '60gr', '60gr']",1837.62
+914,Kit aperitivo per 2 persone,"['vino', 'pomodori', 'olive', 'taralli patate', 'salame rino', 'formaggio', 'olio', 'stracciatella', 'salmone erba cipollina']","['1unit', '60gr', '80gr', '240gr', '80gr', '60gr', '30gr', '60gr', '60gr']",1902.2
+961,Kit cena vista mare,"['limone', 'erba cipollina', 'salmone', 'gratinatura', 'eclair pistacchio', 'prezzemolo', 'aglio', 'vino', 'vongole', 'vino', 'spaghetti', 'capasanta', 'gambero']","['2unit', '2gr', '100gr', '80gr', '2unit', '4gr', '4gr', '40ml', '400gr', '1unit', '180gr', '2unit', '250gr']",6228.79
+957,Kit dolce Natale,"['cioccolato', 'vino']","['1unit', '1unit']",395.88
+1205,Kit grigliata,"['pollo', 'salamella', 'costine', 'scamone', 'melanzane', 'zucchine', 'pollo', 'hamburger manzo', 'salsiccia', 'birra', 'birra', 'birra']","['1unit', '1unit', '2unit', '150gr', '100gr', '100gr', '250gr', '150gr', '150gr', '1unit', '1unit', '1unit']",15744.95
+1149,Kit per laboratorio della festa del papà,"['burro rio', 'accessori', 'biscotti', 'zucchero', 'cioccolato', 'uova']","['200gr', '1unit', '250gr', '100gr', '220gr', '2unit']",5765.98
+1068,Kit per laboratorio di carnevale,"['accessori', 'codette', 'burro', 'cioccolato', 'limone', 'zucchero', 'farina', 'uova']","['1unit', '20gr', '1unit', '50gr', '1unit', '125gr', '250gr', '1unit']",1792.73
+962,Kit per laboratorio di Natale,"['farina', 'nutella', 'chocolate gr', 'uova']","['135gr', '450gr', '1unit', '1unit']",2847.93
+952,Kit pranzo in alta quota,"['taralli patate', 'formaggio', 'cioccolato', 'vino', 'prezzemolo', 'aglio', 'funghi', 'salsiccia', 'polenta', 'gorgonzola', 'rino']","['250gr', '80gr', '2unit', '1unit', '4gr', '4gr', '100gr', '260gr', '80gr', '160gr', '1unit']",3464.07
+1157,Kit sabato italiano,"['birra', 'birra', 'origano', 'sale', 'olio', 'mozzarella', 'passata pomodoro', 'pizza']","['1unit', '1unit', '2gr', '10gr', '20ml', '150gr', '300gr', '500gr']",2151.86
+222,Lenticchie stufate,"['sale', 'olio', 'lenticchie', 'pomodori', 'soffritto', 'rosmarino', 'alloro']","['2gr', '20ml', '150gr', '30gr', '20gr', '2gr', '1gr']",1090.67
+395,Linguine ai lupini,"['linguine', 'lupini', 'vino', 'olio', 'sale', 'aglio', 'prezzemolo', 'pepe', 'pomodori']","['90gr', '100gr', '20ml', '5ml', '9gr', '2gr', '2gr', '1gr', '50gr']",652.68
+461,Linguine alle zucchine,"['basilico', 'linguine', 'zucchine', 'aglio', 'sale', 'olio', 'sale', 'formaggio']","['2gr', '90gr', '100gr', '3gr', '9gr', '5ml', '3gr', '5gr']",257.59
+870,Melanzane alla pizzaiola,"['basilico', 'origano', 'mozzarella', 'passata pomodoro', 'melanzane']","['2gr', '1gr', '100gr', '120gr', '100gr']",805.72
+466,Melanzane trifolate,"['olio', 'aglio', 'prezzemolo', 'sale', 'melanzane']","['5ml', '2gr', '2gr', '1gr', '100gr']",99.73
+1021,Merluzzo in umido con cipolla ed olive,"['capperi olive', 'cipolla affettata', 'prezzemolo', 'olio', 'passata pomodoro', 'merluzzo']","['10gr', '30gr', '2gr', '5ml', '100gr', '120gr']",427.3
+899,Merluzzo in umido con polenta,"['sale', 'merluzzo', 'prezzemolo', 'olio', 'soffritto', 'passata pomodoro', 'polenta']","['3gr', '100gr', '2gr', '5ml', '10gr', '100gr', '40gr']",437.95
+108,Mezze penne Olio e formaggio,"['olio', 'formaggio', 'sale', 'penne']","['10ml', '10gr', '9gr', '90gr']",295.06
+397,Mezze penne panna e prosciutto,"['burro', 'panna', 'sale', 'sale', 'prosciutto', 'penne', 'formaggio']","['5gr', '70ml', '9gr', '2gr', '20gr', '90gr', '5gr']",398.59
+1063,"Millefoglie di zucchine, bufala e pomodori secchi","['zucchine', 'pomodori', 'mozzarella']","['40gr', '50gr', '60gr']",451.16
+1058,"Millefoglie di zucchine, bufala e salmone","['zucchine', 'salmone', 'mozzarella']","['30gr', '50gr', '60gr']",566.6
+1059,"Millefoglie di zucchine, stracciatella e prosciutto crudo","['zucchine', 'prosciutto', 'stracciatella']","['60gr', '40gr', '40gr']",554.36
+933,Minestrone classico,"['formaggio', 'olio', 'dado', 'verdure minestrone']","['5gr', '5ml', '10gr', '200gr']",184.65
+211,Minestrone classico v1,"['formaggio', 'dado', 'olio', 'verdure minestrone', 'rosmarino']","['5gr', '10gr', '5ml', '200gr', '2gr']",185.36
+1234,Minestrone estivo,"['formaggio', 'olio', 'dado', 'verdure minestrone']","['5gr', '5ml', '10gr', '200gr']",184.65
+614,Mozzarella di bufala  ripiena,"['pomodori', 'olio', 'basilico', 'sale', 'mozzarella', 'origano']","['30gr', '1ml', '1gr', '1gr', '1unit', '1gr']",372.62
+1168,"Muffin salati con porri, speck e zola","['pirottini', 'gorgonzola', 'speck', 'lievito dolci', 'porro', 'latte', 'uova', 'farina']","['4unit', '80gr', '50gr', '1unit', '40gr', '70ml', '1unit', '100gr']",1628.11
+432,Omelette con prosciutto e formaggio,"['uova', 'sale', 'prosciutto', 'caciocavallo', 'formaggio']","['2unit', '2gr', '50gr', '40gr', '5gr']",781.21
+1357,Omelette con zucchine e formaggio,"['zucchine', 'sale', 'formaggio', 'caciocavallo', 'uova']","['60gr', '2gr', '5gr', '40gr', '2unit']",489.47
+860,Orecchiette fresche con broccoli e acciughe,"['olio', 'orecchiette', 'aglio', 'olio', 'sale', 'broccoli']","['5gr', '90gr', '2gr', '5ml', '8gr', '130gr']",282.69
+868,Orecchiette fresche con broccoli e guanciale,"['guanciale', 'aglio', 'olio', 'sale', 'broccoli', 'orecchiette']","['30gr', '2gr', '5ml', '8gr', '130gr', '90gr']",493.13
+424,Orecchiette fresche con ciliegini e julienne di formaggio stagionato,"['orecchiette', 'olio', 'sale', 'sale', 'basilico', 'pomodori', 'formaggio']","['100gr', '10ml', '9gr', '1gr', '1gr', '80gr', '15gr']",354.27
+802,"Orecchiette fresche con pesto, datterini e stracciatella","['stracciatella', 'orecchiette', 'sale', 'pesto', 'pomodori']","['50gr', '80gr', '9gr', '15gr', '60gr']",576.11
+191,Ossobuco alla milanese,"['farina', 'burro', 'ossobuco vitello', 'verdure', 'cipolla', 'gremolada']","['20gr', '10gr', '300gr', '62gr', '10gr', '10gr']",2460.59
+560,Paccheri con spada fresco e datterini,"['sale', 'paccheri', 'olio', 'sale', 'aglio', 'basilico', 'pepe', 'pomodori', 'pesce spada']","['2gr', '90gr', '5ml', '9gr', '2gr', '2gr', '1gr', '80gr', '50gr']",310.33
+1433,Padellata di peperoni e cipolle,"['cipolla affettata', 'sale', 'sale', 'olio', 'peperoni']","['75gr', '10gr', '2gr', '5ml', '200gr']",136.13
+183,Paillard di vitello ai ferri,"['olio', 'sale', 'vitello']","['5ml', '2gr', '120gr']",1898.05
+1016,Panino Hamburger,"['hamburger manzo', 'cipolla affettata', 'pomodori', 'insalata', 'uova', 'bacon', 'melanzane', 'pane hambuger', 'zucchine', 'peperoni', 'caciocavallo']","['100gr', '20gr', '60gr', '5gr', '1unit', '20gr', '30gr', '1unit', '30gr', '30gr', '20gr']",1883.81
+1167,Panino hamburger di tonno fresco,"['tonno', 'cipolla affettata', 'pomodori', 'pane hambuger', 'peperoni', 'melanzane', 'zucchine', 'olio', 'pepe', 'sale', 'erba cipollina', 'pesto']","['100gr', '20gr', '60gr', '1unit', '30gr', '30gr', '30gr', '5ml', '2gr', '2gr', '2gr', '15gr']",2014.95
+1125,Panino hamburger vegetariano,"['cipolla affettata', 'pomodori', 'insalata', 'melanzane', 'zucchine', 'uova', 'peperoni', 'caciocavallo', 'hamburger polpette legumi', 'pane hambuger']","['20gr', '60gr', '5gr', '30gr', '30gr', '1unit', '30gr', '20gr', '170gr', '1unit']",1068.68
+1370,Panino P&S,"['ciabattina', 'pomodori', 'stracciatella', 'pastrami']","['1unit', '60gr', '60gr', '60gr']",2689.8
+1722,Panzanella planeat,"['sale', 'olio', 'basilico', 'feta', ""crostini all'olio oliva"", 'panzanella']","['1gr', '5ml', '2gr', '40gr', '0.4unit', '100gr']",502.14
+616,Pasta con pesto di melanzane,"['sale', 'olio', 'pinoli', 'pecorino', 'menta', 'aglio', 'melanzane', 'farfalle']","['1gr', '1ml', '1gr', '1gr', '1gr', '1gr', '1gr', '1gr']",27.34
+621,"Pasta con pesto, patate e fagiolini","['sale', 'olio', 'parmigiano reggiano', 'pinoli', 'basilico', 'patate', 'fagiolini', 'penne']","['1gr', '1ml', '1gr', '1gr', '1gr', '1gr', '1gr', '1gr']",25.46
+223,Pasta e ceci,"['ditalini rigati', 'olio', 'sale', 'ceci', 'soffritto', 'rosmarino', 'formaggio']","['40gr', '20ml', '4gr', '150gr', '20gr', '2gr', '5gr']",886.52
+221,Pasta e fagioli,"['rosmarino', 'olio', 'sale', 'fagioli lessi', 'soffritto', 'ditalini rigati', 'formaggio']","['2gr', '20ml', '4gr', '150gr', '20gr', '40gr', '5gr']",344.12
+633,Pasta estiva,"['pepe', 'sale', 'sale', 'olio', 'aglio', 'spaghetti', 'limone succo', 'prezzemolo', 'pomodori']","['1gr', '5gr', '9gr', '9ml', '3gr', '90gr', '20ml', '2gr', '1gr']",272.24
+623,Pasta fredda con melanzane e mozzarella,"['sale', 'olio', 'olive', 'menta', 'aglio', 'pomodori', 'melanzane', 'fusilli']","['1gr', '1ml', '1gr', '1gr', '1gr', '1gr', '1gr', '1gr']",15.82
+57,Patate al forno,"['olio', 'sale', 'patate', 'rosmarino']","['6ml', '2gr', '200gr', '2gr']",116.01
+59,Patate lesse prezzemolate,"['olio', 'sale', 'patate', 'prezzemolo']","['5ml', '1.5gr', '150gr', '2gr']",105.4
+344,Patate sautè,"['olio', 'patate', 'rosmarino', 'sale', 'burro']","['5ml', '150gr', '2gr', '5gr', '5gr']",119.78
+10,Pennette all'amatriciana,"['sale', 'sale', 'pepe', 'olio', 'pennette', 'passata pomodoro', 'guanciale', 'cipolla affettata', 'formaggio']","['9gr', '1gr', '1gr', '5ml', '90gr', '100gr', '30gr', '5gr', '5gr']",535.91
+427,Pennette capperi e olive,"['prezzemolo', 'pennette', 'passata pomodoro', 'olio', 'sale', 'sale', 'capperi olive', 'cipolla', 'formaggio']","['1gr', '90gr', '100gr', '5ml', '9gr', '1gr', '20gr', '5gr', '5gr']",281.26
+1429,Pennette con ragù di lenticchie,"['pennette', 'sale', 'sale', 'olio', 'soffritto', 'passata pomodoro', 'lenticchie']","['90gr', '8gr', '1gr', '3ml', '5gr', '45gr', '60gr']",552.41
+937,Pennette quadrate al salmone,"['prezzemolo', 'olio', 'sale', 'salmone', 'panna', 'pennette']","['2gr', '5ml', '9gr', '30gr', '80ml', '90gr']",371.21
+1620,Pennette quadrate con tonno e olive verdi,"['origano', 'sale', 'cipolla affettata', 'olive', 'olio', 'pennette']","['0.2gr', '9gr', '25gr', '10gr', '45gr', '80gr']",600.01
+152,Pennette speck e zafferano,"['sale', 'olio', 'zafferano', 'panna', 'pennette', 'speck', 'formaggio']","['9gr', '5ml', '0.05unit', '80ml', '90gr', '20gr', '5gr']",1606.47
+1179,Pinzimonio,"['finocchi', 'limone succo', 'peperone', 'sedano', 'sale', 'olio', 'carote']","['40gr', '5ml', '40gr', '40gr', '1gr', '20ml', '40gr']",238.35
+705,Pizza ai 4 formaggi,"['stracchino', 'formaggio', 'gorgonzola', 'sale', 'olio', 'mozzarella', 'passata pomodoro', 'pizza']","['25gr', '25gr', '25gr', '5gr', '10ml', '40gr', '120gr', '250gr']",1085.14
+396,Pizza al prosciutto cotto,"['pizza', 'passata pomodoro', 'mozzarella', 'olio', 'sale', 'origano', 'prosciutto']","['250gr', '130gr', '75gr', '10ml', '5gr', '1gr', '60gr']",1381.14
+727,"Pizza bianca con mozzarella, pomodori e rucola","['rucola', 'mozzarella', 'pomodori', 'pizza']","['1gr', '75gr', '75gr', '250gr']",864.92
+726,"Pizza bianca con stracciatella, crudo, pomodori e rucola","['passata pomodoro', 'olio', 'stracciatella', 'rucola', 'prosciutto', 'pomodori', 'pizza']","['130gr', '5ml', '80gr', '10gr', '50gr', '75gr', '250gr']",1325.34
+714,Pizza bianca fai da te,"['burratina fiordilatte gr', 'cipolla affettata', 'aglio', 'olive', 'pomodori', 'stracchino', 'stracciatella', 'melanzane', 'peperoni', 'zucchine', 'rucola', 'bresaola', 'prosciutto', 'prosciutto', 'formaggio', 'mozzarella', 'mozzarella', 'gorgonzola', 'mozzarella', 'pizza']","['1unit', '1gr', '1gr', '1gr', '1gr', '1unit', '1gr', '1gr', '1gr', '1gr', '1gr', '1gr', '1gr', '1gr', '1gr', '1unit', '1unit', '1gr', '1gr', '250gr']",2000.56
+725,Pizza bianca gorgonzola e cipolle,"['passata pomodoro', 'olio', 'cipolla affettata', 'gorgonzola', 'pizza']","['130gr', '5ml', '50gr', '100gr', '250gr']",750.34
+710,Pizza bufala e pomodorini,"['mozzarella', 'pomodori', 'origano', 'sale', 'olio', 'passata pomodoro', 'pizza']","['100gr', '50gr', '1gr', '5gr', '10ml', '120gr', '250gr']",1190.76
+724,Pizza cotto e olive,"['olive', 'origano', 'sale', 'olio', 'prosciutto', 'mozzarella', 'passata pomodoro', 'pizza']","['20gr', '1gr', '5gr', '10ml', '50gr', '75gr', '130gr', '250gr']",1379.06
+703,"Pizza crudo, burrata, pomodori e rucola","['burratina fiordilatte gr', 'rucola', 'pomodori', 'sale', 'olio', 'prosciutto', 'passata pomodoro', 'pizza']","['1unit', '1gr', '75gr', '5gr', '10ml', '50gr', '150gr', '250gr']",1617.5
+702,Pizza crudo e scaglie di formaggio stagionato,"['prosciutto', 'formaggio', 'sale', 'olio', 'mozzarella', 'passata pomodoro', 'pizza']","['50gr', '20gr', '5gr', '10ml', '75gr', '130gr', '250gr']",1419.61
+391,Pizza margherita,"['pizza', 'olio', 'sale', 'origano', 'passata pomodoro', 'mozzarella']","['250gr', '10ml', '5gr', '1gr', '150gr', '75gr']",1016.32
+704,Pizza margherita con acciughe,"['olio', 'origano', 'sale', 'olio', 'mozzarella', 'passata pomodoro', 'pizza']","['1gr', '1gr', '5gr', '10ml', '75gr', '150gr', '250gr']",1025.97
+723,Pizza margherita con olive,"['olive', 'origano', 'sale', 'olio', 'mozzarella', 'passata pomodoro', 'pizza']","['1gr', '1gr', '5gr', '10ml', '75gr', '150gr', '250gr']",1019.34
+697,Pizza Ortolana,"['zucchine', 'melanzane', 'peperoni', 'sale', 'olio', 'mozzarella', 'passata pomodoro', 'pizza']","['30gr', '30gr', '30gr', '5gr', '10ml', '75gr', '150gr', '250gr']",1048.28
+713,Pizza rossa fai da te,"['burrata volta', 'cipolla affettata', 'aglio', 'olive', 'pomodori', 'stracchino', 'stracciatella', 'melanzane', 'peperoni', 'zucchine', 'rucola', 'bresaola', 'prosciutto', 'prosciutto', 'formaggio', 'mozzarella', 'mozzarella', 'gorgonzola', 'mozzarella', 'passata pomodoro', 'pizza']","['1unit', '1gr', '1gr', '1gr', '1gr', '1unit', '1gr', '1gr', '1gr', '1gr', '1gr', '1gr', '1gr', '1gr', '1gr', '1unit', '1unit', '1gr', '1gr', '1gr', '250gr']",2765.79
+698,"Pizza stracciatella, pomodorini e rucola","['stracciatella', 'rucola', 'pomodori', 'sale', 'olio', 'passata pomodoro', 'pizza']","['100gr', '5gr', '60gr', '5gr', '10ml', '150gr', '250gr']",1208.51
+1139,Pizzoccheri valtellinesi,"['patate', 'aglio', 'casera', 'sale', 'burro', 'verza tagliata lavata', 'pizzoccheri']","['50gr', '2gr', '60gr', '5gr', '20gr', '60gr', '100gr']",522.67
+901,Polenta,"['sale', 'polenta']","['3gr', '40gr']",65.76
+893,Polenta e zola,"['sale', 'polenta', 'gorgonzola']","['2gr', '40gr', '80gr']",320.0
+625,Polpette vegetariane,"['aglio', 'olio', 'sale', 'pane', 'parmigiano reggiano', 'uova', 'ricotta', 'spinaci']","['1gr', '1ml', '1gr', '1gr', '1gr', '1unit', '1gr', '1gr']",141.17
+199,Polpettine di carne in umido,"['polpette carne', 'burro', 'vino', 'prezzemolo', 'farina']","['100gr', '5gr', '10ml', '2gr', '5gr']",922.1
+1262,Polpettine di ricotta e spinaci,"['spinaci', 'gratinatura', 'ricotta']","['125gr', '40gr', '125gr']",969.72
+1553,Polpettine sfiziose vegetariane,"['olio', 'hamburger polpette legumi']","['5ml', '170gr']",559.78
+1128,Porri al forno,"['olio', 'sale', 'porro']","['5ml', '1.5gr', '100gr']",83.65
+469,Prosciutto e melone,"['melone', 'prosciutto']","['150gr', '50gr']",456.2
+867,Purè di cavolfiori,"['formaggio', 'sale', 'latte', 'cavolfiori']","['5gr', '5gr', '150ml', '150gr']",260.05
+205,Purè di patate,"['latte', 'sale', 'patate', 'burro', 'formaggio']","['75ml', '3gr', '140gr', '4gr', '5gr']",183.7
+626,Ratatouille,"['sale', 'olio', 'pomodori', 'cipolla', 'peperoni', 'zucchine', 'melanzane']","['1gr', '1ml', '1gr', '1gr', '1gr', '1gr', '1gr']",11.21
+209,Ravioli freschi al brasato con burro fuso e salvia,"['ravioli', 'formaggio', 'salvia', 'burro']","['125gr', '5gr', '2gr', '8gr']",275.95
+898,Ravioli freschi al brasato con sugo al pomodoro,"['ravioli', 'passata pomodoro', 'formaggio', 'basilico', 'sale', 'olio', 'cipolla', 'sale']","['100gr', '80gr', '5gr', '2gr', '2gr', '5ml', '5gr', '9gr']",277.86
+1110,Ravioli freschi di magro al pomodoro,"['basilico', 'cipolla', 'passata pomodoro', 'formaggio', 'olio', 'sale', 'sale', 'ravioli ricotta spinaci']","['2gr', '5gr', '80gr', '5gr', '5ml', '2gr', '9gr', '100gr']",415.22
+897,Ravioli freschi (di magro/brasato) in brodo,"['ravioli', 'formaggio', 'dado']","['100gr', '5gr', '10gr']",230.0
+1115,Ravioli freschi di magro con burro fuso e salvia,"['burro', 'salvia', 'formaggio', 'ravioli ricotta spinaci']","['8gr', '2gr', '5gr', '125gr']",447.66
+110,Riso all'inglese,"['riso', 'burro', 'formaggio', 'sale']","['90gr', '5gr', '10gr', '9gr']",311.02
+1027,Risotto ai funghi,"['prezzemolo', 'vino', 'sale', 'cipolla', 'burro', 'formaggio', 'funghi', 'dado', 'riso']","['1gr', '10ml', '5gr', '5gr', '10gr', '20gr', '40gr', '20gr', '90gr']",499.98
+197,Risotto alla milanese,"['dado', 'riso', 'vino', 'formaggio', 'cipolla', 'zafferano', 'burro']","['20gr', '100gr', '1ml', '20gr', '5gr', '0.05unit', '10gr']",1680.08
+1155,Risotto alla parmigiana,"['vino', 'sale', 'cipolla', 'burro', 'formaggio', 'dado', 'riso']","['10ml', '5gr', '5gr', '10gr', '20gr', '20gr', '100gr']",505.9
+810,Risotto al Mascognaz,"['dado', 'vino', 'sale', 'cipolla', 'burro', 'formaggio', 'riso']","['20gr', '10ml', '5gr', '5gr', '10gr', '20gr', '100gr']",505.9
+154,Risotto al radicchio,"['dado', 'riso', 'vino', 'radicchio', 'formaggio', 'cipolla', 'burro', 'sale']","['20gr', '100gr', '10ml', '30gr', '20gr', '5gr', '10gr', '5gr']",516.52
+865,Risotto con salsiccia,"['dado', 'salsiccia tagliata', 'vino', 'sale', 'cipolla', 'burro', 'formaggio', 'riso']","['20gr', '50gr', '10ml', '5gr', '5gr', '10gr', '20gr', '100gr']",656.9
+462,Risotto con zucchine,"['dado', 'riso', 'formaggio', 'burro', 'cipolla', 'sale', 'vino', 'zucchine']","['20gr', '100gr', '20gr', '10gr', '5gr', '5gr', '10ml', '80gr']",532.78
+97,Risotto mazzancolle e zucchine,"['olio', 'sale', 'aglio', 'zucchine', 'mazzancolla', 'dado', 'riso', 'burro', 'vino']","['5ml', '2gr', '5gr', '70gr', '80gr', '20gr', '100gr', '10gr', '10ml']",685.25
+811,Risotto pere e gorgonzola,"['dado', 'pere', 'gorgonzola', 'vino', 'sale', 'cipolla', 'burro', 'formaggio', 'riso']","['20gr', '0.5unit', '25gr', '10ml', '5gr', '5gr', '10gr', '20gr', '100gr']",659.11
+866,Risotto zucca e speck,"['cipolla', 'formaggio', 'zucca', 'dado', 'sale', 'burro', 'vino', 'speck', 'riso']","['5gr', '20gr', '60gr', '20gr', '5gr', '10gr', '10ml', '20gr', '100gr']",645.82
+148,Riso venere con verdure cubettate e basilico,"['riso', 'olio', 'sale', 'sale', 'basilico', 'carote zucchine']","['90gr', '5ml', '9gr', '2gr', '2gr', '100gr']",308.16
+672,Roast-beef con rucola e scaglie di formaggio stagionato,"['sale', 'limone succo', 'olio', 'rucola', 'formaggio', 'roast beef']","['2gr', '4ml', '5ml', '10gr', '20gr', '1unit']",4467.23
+216,Rondelle di melanzane cotte in padella,"['olio', 'sale', 'prezzemolo', 'melanzane']","['5ml', '2gr', '2gr', '100gr']",98.55
+632,Rotolini di zucchine con ricotta e crudo,"['zucchine', 'sale', 'ricotta mista bufala', 'pepe', 'prosciutto']","['80gr', '2gr', '40gr', '1gr', '40gr']",536.24
+1183,Salame di cioccolato,"['biscotti', 'cioccolato', 'burro', 'zucchero', 'uova']","['250gr', '220gr', '200gr', '70gr', '2unit']",5715.03
+920,Salmone affumicato con erba cipollina,"['limone', 'erba cipollina', 'olio', 'salmone']","['1unit', '1gr', '3ml', '50gr']",229.42
+214,Salsiccia e funghi,"['prezzemolo', 'salsiccia', 'sale', 'funghi', 'olio', 'aglio']","['2gr', '130gr', '5gr', '50gr', '4ml', '2gr']",848.68
+1342,Saltimbocca di vitello con speck e salvia,"['speck', 'salvia', 'vino', 'sale', 'olio', 'vitello']","['10gr', '2gr', '10ml', '2gr', '5ml', '120gr']",1967.33
+409,Scaloppine di pollo al limone,"['farina', 'prezzemolo', 'sale', 'olio', 'limone succo', 'pollo']","['20gr', '2gr', '2gr', '5ml', '10ml', '120gr']",625.2
+411,Scaloppine di pollo al vino bianco,"['pollo', 'olio', 'sale', 'prezzemolo', 'farina', 'vino']","['120gr', '5ml', '2gr', '2gr', '20gr', '10ml']",627.02
+181,Scaloppine di vitello al limone,"['limone succo', 'olio', 'sale', 'farina', 'vitello', 'prezzemolo']","['10ml', '5ml', '2gr', '20gr', '120gr', '2gr']",1956.0
+1177,Sgombro fresco pescato intero cotto al forno,"['sale', 'olio', 'sgombro']","['2gr', '5ml', '1unit']",307.25
+1039,Spaghetti aglio olio e peperoncino,"['formaggio', 'prezzemolo', 'sale', 'peperoncino', 'aglio', 'sale', 'olio', 'spaghetti']","['5gr', '2gr', '2gr', '1gr', '5gr', '9gr', '30ml', '100gr']",496.62
+72,Spaghetti alla carbonara,"['sale', 'olio', 'pepe', 'spaghetti', 'uova', 'guanciale', 'pecorino', 'formaggio']","['9gr', '5ml', '1gr', '90gr', '1unit', '30gr', '10gr', '10gr']",665.7
+617,Spaghetti alla carbonara di zucchine,"['spaghetti', 'formaggio', 'pepe', 'olio', 'sale', 'pecorino', 'zucchine', 'uova']","['90gr', '10gr', '1gr', '5ml', '9gr', '10gr', '80gr', '1unit']",433.89
+377,Spaghetti ciliegini e basilico,"['spaghetti', 'sale', 'olio', 'sale', 'cipolla', 'basilico', 'pomodori', 'formaggio']","['90gr', '9gr', '5ml', '3gr', '3gr', '2gr', '100gr', '5gr']",244.44
+378,Spaghetti con ciliegini olive taggiasche e origano,"['aglio', 'spaghetti', 'olio', 'origano', 'sale', 'pomodori', 'olive', 'sale', 'formaggio']","['2gr', '90gr', '5ml', '1gr', '3gr', '80gr', '10gr', '9gr', '5gr']",270.31
+1374,Spaghetti con crema di zucchine e salmone,"['spaghetti', 'sale', 'sale', 'olio', 'zucchine', 'salmone']","['90gr', '9gr', '2gr', '5ml', '100gr', '40gr']",333.41
+577,Spaghetti quadrati con ciliegini e stracciatella,"['spaghetti', 'pomodori', 'sale', 'olio', 'sale', 'basilico', 'formaggio', 'aglio', 'stracciatella']","['90gr', '80gr', '9gr', '5ml', '3gr', '2gr', '5gr', '3gr', '50gr']",596.96
+75,Spaghetti vongole veraci,"['prezzemolo', 'spaghetti', 'vino', 'olio', 'sale', 'pepe', 'aglio', 'vongole']","['2gr', '90gr', '20ml', '5ml', '9gr', '1gr', '2gr', '200gr']",754.48
+807,Spaghetto quadrato cacio e pepe,"['spaghetti', 'sale', 'pepe']","['90gr', '5gr', '50gr']",528.51
+1160,Special hamburger,"['rucola', 'stracciatella', 'hamburger manzo', 'birra', 'birra', 'birra', 'birra', 'pane hambuger', 'pomodori']","['5gr', '60gr', '150gr', '1unit', '1unit', '1unit', '1unit', '1unit', '20gr']",2759.32
+359,Spiedini di pollo con salsiccia e peperoni,"['pollo', 'sale']","['250gr', '3gr']",1081.25
+943,Spiedino di Gamberoni Argentini,"['olio', 'gambero']","['5ml', '125gr']",372.0
+435,Spinaci freschi cotti in padella,"['spinaci', 'olio']","['150gr', '3ml']",72.75
+413,Straccetti di pollo con peperoni julienne,"['pollo', 'olio', 'sale', 'prezzemolo', 'peperoni', 'cipolla affettata']","['100gr', '5ml', '2gr', '2gr', '50gr', '10gr']",515.41
+1399,Straccetti di pollo gratinati,"['olio', 'gratinatura', 'pollo']","['5ml', '30gr', '150gr']",729.7
+784,Tagliata di scamone alle erbe aromatiche,"['olio', 'scamone erbe aromatiche']","['5ml', '1unit']",2684.75
+813,Tagliata di scamone con rucola e pomodorini,"['sale', 'scamone', 'rucola', 'pomodori', 'olio']","['2gr', '150gr', '15gr', '50gr', '5ml']",2376.51
+1413,Tartare di tonno,"['limone succo', 'pepe', 'sale', 'olio', 'tonno']","['5ml', '0.5gr', '1gr', '5ml', '100gr']",1596.99
+1621,"Tartare di tonno con pomodorini, olive e capperi","['pepe', 'sale', 'limone succo', 'pomodori', 'capperi olive', 'olio', 'tonno']","['0.5gr', '0.5gr', '5ml', '30gr', '10gr', '1.5ml', '100gr']",1559.11
+1178,test ricetta,"['pomodori', 'stracciatella']","['50gr', '120gr']",864.74
+869,Torta di mele,"['lievito dolci', 'mela', 'uova', 'limone', 'zucchero', 'burro', 'farina']","['1unit', '3unit', '4unit', '1unit', '150gr', '200gr', '200gr']",3297.59
+1184,Torta pasqualina con ricotta e spinaci,"['uova', 'ricotta', 'pasta sfoglia decongelata', 'olio', 'sale', 'parmigiano reggiano', 'spinaci']","['5unit', '350gr', '375gr', '5ml', '5gr', '50gr', '500gr']",3613.54
+1067,Torta ricotta e scaglie di cioccolato,"['ricotta', 'cioccolato', 'burro', 'lievito dolci', 'uova', 'zucchero', 'farina']","['200gr', '100gr', '1unit', '1unit', '3unit', '170gr', '200gr']",4745.6
+1135,"Torta salata con zucchine, porri e ricotta","['olio', 'sale', 'uova', 'ricotta', 'zucchine', 'porro', 'pasta sfoglia decongelata']","['5ml', '5gr', '1unit', '250gr', '250gr', '250gr', '250gr']",2283.23
+628,Tortiglioni alla Gricia,"['tortiglioni', 'sale', 'pepe', 'pecorino', 'olio', 'guanciale']","['80gr', '9gr', '1gr', '15gr', '5ml', '30gr']",493.74
+163,Tortiglioni al ragù di carne,"['olio', 'sale', 'sale', 'pepe', 'vino', 'tortiglioni', 'passata pomodoro', 'soffritto', 'carne trita', 'formaggio']","['5ml', '2gr', '9gr', '1gr', '10ml', '90gr', '90gr', '9gr', '45gr', '5gr']",671.61
+417,Tortiglioni con ragù artigianale pronto,"['tortiglioni', 'sale', 'ragù carne', 'formaggio']","['80gr', '9gr', '100gr', '5gr']",1019.12
+381,Tortiglioni pasta di salsiccia e zafferano,"['tortiglioni', 'sale', 'zafferano', 'sale', 'panna', 'pasta salsiccia', 'formaggio']","['90gr', '9gr', '0.05unit', '2gr', '80ml', '30gr', '5gr']",1556.04
+627,Tortilla di patate,"['patate', 'sale', 'olio', 'pepe', 'cipolla affettata', 'uova']","['100gr', '3gr', '5ml', '1gr', '40gr', '2unit']",332.61
+1197,Tortino di pesce spada,"['spada', 'olio']","['175gr', '5ml']",501.5
+1408,Tortino di zucchine vegetariano,"['pane', 'sale', 'cipolla', 'olio', 'formaggio', 'ricotta', 'zucchine vegetariano', 'pomodori']","['20gr', '1gr', '5gr', '2ml', '10gr', '20gr', '100gr', '20gr']",258.98
+520,Totani julienne saltati in padella,"['olio', 'totani', 'limone succo']","['5ml', '100gr', '5ml']",310.68
+16,Trofie fresche al pesto artigianale,"['trofie', 'pesto', 'formaggio', 'sale']","['100gr', '40gr', '5gr', '9gr']",392.1
+201,Uova in camicia con carciofi saltati,"['carciofi', 'uova', 'olio', 'sale', 'aglio']","['50gr', '1unit', '5ml', '2gr', '2gr']",211.14
+470,Uova in camicia con punte di asparagi freschi saltati,"['uova', 'olio', 'aglio', 'sale', 'formaggio', 'asparagi']","['1unit', '5ml', '2gr', '2gr', '10gr', '60gr']",349.84
+193,Uova occhio di Bue (2 uova a porzione),"['uova', 'olio', 'sale']","['2unit', '5ml', '2gr']",289.86
+194,Uova sbattute (per prima colazione o merenda),"['uova', 'zucchero']","['2unit', '35gr']",271.88
+196,Uova sode (1 uovo a porzione),"['uova', 'sale']","['1unit', '2gr']",120.81
+687,Uova strapazzate,"['pepe', 'sale', 'burro', 'latte', 'uova']","['1gr', '2gr', '5gr', '30ml', '2unit']",315.39
+694,Uova strapazzate con Bacon,"['bacon', 'pepe', 'sale', 'latte', 'uova']","['65gr', '1gr', '2gr', '30ml', '2unit']",693.09
+587,Vaschetta gelato large 4 gusti circa 1000 gr,"['gelato', 'gelato', 'gelato', 'gelato', 'gelato']","['1unit', '250gr', '250gr', '250gr', '250gr']",1973.92
+586,Vaschetta gelato medium 3 gusti circa 750 gr,"['gelato', 'gelato', 'gelato', 'gelato']","['1unit', '250gr', '250gr', '250gr']",1499.42
+585,Vaschetta gelato small 2 gusti circa 500 gr,"['gelato', 'gelato', 'gelato']","['1unit', '250gr', '250gr']",1024.92
+1127,Verza stufata,"['olio', 'sale', 'verza tagliata lavata']","['5ml', '2gr', '125gr']",133.58
+349,Zucchine grigliate,"['zucchine', 'olio', 'sale']","['100gr', '5ml', '2gr']",81.85
+58,Zucchine trifolate,"['olio', 'sale', 'zucchine', 'aglio', 'prezzemolo']","['5ml', '1gr', '100gr', '2gr', '2gr']",97.13
+1680,Arista alla brava,"['prezzemolo', 'sale', 'olio', 'vino', 'cipolla affettata', 'carote', 'lonza']","['0.5gr', '1gr', '2ml', '2ml', '10gr', '30gr', '150gr']",930.22
+1601,Arrosto agli aromi,"['farina', 'vino', 'dado', 'rosmarino', 'salvia', 'olio', 'lonza']","['1gr', '25ml', '8gr', '1gr', '1gr', '5ml', '100gr']",703.57
+1006,Arrosto di vitello agli aromi,"['farina', 'vino', 'dado', 'rosmarino', 'salvia', 'olio', 'vitello arrosto']","['1gr', '50ml', '8gr', '1gr', '1gr', '5ml', '100gr']",899.74
+980,Arrosto di vitello ai funghi porcini,"['prezzemolo', 'olio', 'farina', 'dado', 'funghi', 'vitello arrosto']","['2gr', '5ml', '2.5gr', '5gr', '50gr', '70gr']",640.61
+1493,arrosto freddo con asparagì e scaglie di formaggio ( circa 150g),"['sale', 'olio', 'formaggio', 'asparagi', 'lonza']","['0.5gr', '2ml', '10gr', '30gr', '100gr']",733.2
+1642,Arrosto freddo con  carciofi e scaglie di parmigiano,"['prezzemolo', 'aglio', 'olio', 'formaggio', 'carciofi', 'lonza']","['0.5gr', '0.30000000000000004gr', '2ml', '5gr', '40gr', '100gr']",679.82
+1692,Arrosto freddo con cruditè di verdure,"['sale', 'limone succo', 'olio', 'sedano', 'carote zucchine', 'lonza']","['2gr', '5ml', '5ml', '20gr', '30gr', '100gr']",665.52
+1595,Arrosto freddo di tacchino con salsa limoncella,"['pepe', 'prezzemolo', 'sale', 'limone succo', 'olio', 'tacchino']","['0.01gr', '0.5gr', '1gr', '15ml', '5ml', '100gr']",494.66
+1542,Arrosto freddo in salsa verde,['lonza'],"['50gr', '100gr']",299.4
+1578,Arrosto freddo zucchine e menta,"['menta', 'sale', 'olio', 'zucchine', 'lonza']","['0.5gr', '1gr', '2ml', '70gr', '100gr']",641.8
+1321,Bastoncini di carote al vapore (nido),"['olio', 'sale', 'carote']","['2.5ml', '4.5gr', '50gr']",13.61
+1314,Bastoncini di carote olio e limone (nido),"['olio', 'sale', 'limone succo', 'carote']","['2.5ml', '4.5gr', '2ml', '40gr']",13.03
+1706,Bavette alla trasteverina,"['prezzemolo', 'aglio', 'olio', 'funghi', 'olio', 'pomodori', 'linguine']","['0.5gr', '0.5gr', '2gr', '30gr', '30gr', '80gr', '80gr']",470.91
+1643,Bocconcini di pollo vino bianco e olive taggiasche,"['prezzemolo', 'sale', 'olio', 'farina', 'olive', 'vino', 'pollo']","['0.5gr', '1gr', '2ml', '3gr', '10gr', '10ml', '180gr']",845.71
+1304,Bocconcini di tacchino al rosmarino ( nido),"['prezzemolo', 'sale', 'olio', 'rosmarino', 'tacchino']","['2gr', '2gr', '5ml', '2gr', '60gr']",322.56
+1693,Bon roll del casaro,"['prezzemolo', 'sale', 'olio', 'formaggio', 'formagella', 'porro', 'broccoli', 'carote', 'tacchino', 'pollo']","['0.5gr', '2gr', '2ml', '2gr', '10gr', '20gr', '30gr', '30gr', '60gr', '60gr']",605.2
+1656,Broccoli aglio olio e peperoncino,"['peperoncino', 'aglio', 'olio', 'sale', 'broccoli']","['0.1gr', '0.5gr', '2ml', '1gr', '200gr']",76.63
+1518,Broccoli al vapore,"['sale', 'broccoli']","['1gr', '200gr']",57.0
+1695,Broccoli e cavoli saltati,"['aglio', 'sale', 'olio', 'cavolfiori', 'broccoli']","['0.5gr', '1.5gr', '2ml', '85gr', '85gr']",68.05
+1681,Burger di patate,"['uova', 'sale', 'olio', 'formaggio', 'pane', 'cipolla', 'patate']","['0.2unit', '2gr', '5ml', '5gr', '10gr', '20gr', '120gr']",148.49
+1649,Caesar's salad,"['sale', 'limone succo', 'olio', 'insalata', 'olive', 'emmenthal', 'prosciutto', 'fagiolini', 'pollo']","['1gr', '1ml', '2ml', '5gr', '5gr', '15gr', '15gr', '30gr', '80gr']",622.15
+1040,Caponata alla siciliana,"['pomodori', 'pomodori', 'zucchero', 'sale', 'olio', 'capperi olive', 'basilico', 'aceto', 'pinoli', 'sedano', 'cipolla affettata', 'melanzane']","['20gr', '20gr', '2gr', '2gr', '10ml', '15gr', '1gr', '2ml', '5gr', '10gr', '20gr', '120gr']",219.84
+1295,Caprese (nido),"['origano', 'basilico', 'sale', 'olio', 'pomodori', 'mozzarella']","['0.5gr', '1gr', '1gr', '2ml', '40gr', '0.5unit']",206.32
+1466,Carote al vapore,"['sale', 'carote']","['1gr', '165gr']",32.17
+1667,Carote e fagiolini,"['olio', 'fagiolini', 'sale', 'carote']","['2ml', '85gr', '1gr', '75gr']",80.41
+1573,Carote e piselli,"['sale', 'cipolla', 'olio', 'piselli', 'carote']","['1gr', '2gr', '2ml', '80gr', '80gr']",83.04
+1487,Carpaccio di primo sale,"['pepe', 'sale', 'olio', 'primosale']","['0.05gr', '0.5gr', '2ml', '100gr']",525.68
+1664,Carpaccio di spada,"['pepe', 'prezzemolo', 'sale', 'limone succo', 'olio', 'spada']","['0.1gr', '0.5gr', '2gr', '5ml', '5ml', '100gr']",314.96
+1535,Carpaccio di zucchine con scaglie parmigiano reggiano e menta,"['olio', 'pepe', 'menta', 'formaggio', 'zucchine']","['4ml', '0.001gr', '1gr', '40gr', '80gr']",268.24
+1538,Casarecce alla sorrentina,"['mozzarella', 'basilico', 'pomodori', 'pasta']","['30gr', '0.5gr', '100gr', '90gr']",401.5
+1526,Cavolfiori e pancetta,"['bacon', 'formaggio', 'pepe', 'burro', 'cavolfiori']","['5gr', '2gr', '0.001gr', '2gr', '165gr']",99.45
+1473,Cavolfiori trifolati,"['prezzemolo', 'aglio', 'sale', 'olio', 'cavolfiori']","['0.4gr', '0.5gr', '1.5gr', '3ml', '160gr']",77.66
+1694,Cestino vegetariano,"['basilico', 'sale', 'uova', 'mozzarella', 'fantasia', 'pasta sfoglia decongelata']","['0.5gr', '2gr', '0.2unit', '10gr', '80gr', '100gr']",188.8
+1633,Coste con pomodori freschi,"['sale', 'olio', 'cipolla', 'pomodori', 'coste']","['1gr', '2ml', '2gr', '30gr', '160gr']",143.38
+1020,Cotechino con lenticchie,"['alloro', 'rosmarino', 'sale', 'olio', 'soffritto', 'lenticchie', 'cotechino']","['1gr', '1gr', '1.2gr', '5ml', '10gr', '100gr', '70gr']",1245.51
+1488,Cotoletta di pesce,"['sale', 'olio', 'uova', 'pane', 'nasello']","['2gr', '5ml', '0.25unit', '40gr', '140gr']",484.65
+12,Cotoletta di pollo  alla milanese fatta da noi!,"['pollo', 'sale', 'olio', 'uova', 'pane']","['140gr', '2gr', '5ml', '0.25unit', '40gr']",727.55
+1546,Cous cous vegetariano,"['sale', 'sale', 'basilico', 'cipolla', 'olio', 'verdure cous', 'couscous']","['1gr', '2gr', '2gr', '5gr', '8ml', '130gr', '80gr']",271.45
+1269,Cous cous vegetariano (nido),"['sale', 'sale', 'basilico', 'cipolla', 'olio', 'verdure cous', 'couscous']","['1gr', '1gr', '1gr', '1gr', '4ml', '60gr', '30gr']",115.27
+1668,Crema di carote,"['sale', 'olio', 'cipolla', 'acqua', 'carote']","['3gr', '4ml', '5gr', '0.15L', '200gr']",188.76
+1671,Crepes zucchine e crescenza,"['stracchino', 'sale', 'zucchine', 'burro', 'farina', 'latte', 'uova']","['60gr', '2gr', '60gr', '5gr', '30gr', '30ml', '1unit']",566.21
+1469,Crocchette di melanzane (circa 160g),"['sale', 'olio', 'aglio', 'uova', 'pane', 'mozzarella', 'patate', 'melanzane']","['2gr', '8ml', '0.2gr', '0.25unit', '10gr', '10gr', '40gr', '180gr']",266.23
+1537,Crocchette di patate,"['crocchette patate', 'olio']","['160gr', '5ml']",99.53
+1645,Cubettata di carote e zucchine,"['basilico', 'sale', 'olio', 'cipolla', 'carote zucchine']","['0.5gr', '1gr', '2ml', '2gr', '200gr']",73.12
+1627,Cupola vegetariana con verdure e mozzarella,"['olio', 'sale', 'uova', 'formaggio', 'mozzarella', 'verdure miste']","['2ml', '1gr', '0.25unit', '5gr', '20gr', '150gr']",270.24
+1307,Dadolata di verdure (nido),"['basilico', 'cipolla', 'olio', 'verdure dadolata']","['1gr', '1.5gr', '2ml', '70gr']",44.48
+1675,erbette fresche con datterini,"['sale', 'aglio', 'olio', 'pomodori', 'erbette']","['1gr', '0.5gr', '2ml', '30gr', '150gr']",79.11
+1320,Erbette fresche gratinate (nido),"['formaggio', 'sale', 'olio', 'erbette']","['2.5gr', '1gr', '1.5ml', '75gr']",30.5
+1316,Erbette fresche saltate (nido),"['sale', 'olio', 'erbette']","['1gr', '1.5ml', '75gr']",28.48
+1599,Fagiolini alla rivierasca,"['prezzemolo', 'olio', 'aglio', 'olive', 'pomodori', 'fagiolini']","['0.5gr', '2ml', '0.5gr', '5gr', '40gr', '100gr']",101.44
+1517,Fagiolini al vapore,"['sale', 'fagiolini']","['5gr', '100gr']",54.7
+1475,Fagiolini al vapore (circa 150g),"['sale', 'fagiolini']","['1gr', '170gr']",92.99
+1310,fagiolini al vapore (nido),"['olio', 'sale', 'fagiolini']","['1ml', '5gr', '50gr']",37.0
+1685,fagiolini con cipolla rossa e olive taggiasche,"['olive', 'cipolla affettata', 'fagiolini']","['5gr', '20gr', '130gr']",89.4
+1496,fagiolini pomodoro e basilico  (circa 150g),"['sale', 'basilico', 'pomodori', 'fagiolini']","['0.5gr', '0.5gr', '30gr', '130gr']",77.71
+1482,Fagotto di carne zucchine e scamorza (circa 180g),"['olio', 'gratinatura', 'zucchine', 'provola', 'lonza']","['3ml', '30gr', '20gr', '25gr', '120gr']",866.38
+1460,Farfalle carciofi e olive,"['aglio', 'prezzemolo', 'sale', 'olio', 'olive', 'carciofi', 'pomodori', 'pasta']","['1gr', '0.30000000000000004gr', '1.5gr', '5ml', '6gr', '50gr', '80gr', '80gr']",274.98
+1442,Farfalle pomodori freschi e pesto (circa 300g),"['sale', 'pesto', 'cipolla', 'olio', 'pomodori', 'farfalle']","['1gr', '10gr', '5gr', '2ml', '80gr', '100gr']",273.28
+1710,Farinata di ceci con zucchine e basilico,"['basilico', 'sale', 'olio', 'aglio', 'acqua', 'zucchine', 'farina']","['0.5gr', '2gr', '2ml', '0.5gr', '0.04L', '50gr', '80gr']",213.77
+1565,Farro tonno e verdure croccanti,"['basilico', 'sale', 'olio', 'olio', 'carote zucchine', 'farro']","['0.5gr', '1gr', '2ml', '30gr', '80gr', '150gr']",576.82
+1548,Fettina di lonza alla piastra,"['rosmarino', 'sale', 'olio', 'lonza']","['0.5gr', '1gr', '3ml', '150gr']",927.33
+1713,fettina di vitellone peperoni e capperi,"['sale', 'peperoni', 'aglio', 'sale', 'vino', 'pomodori', 'noce bovino']","['1gr', '25gr', '0.5gr', '5gr', '5ml', '40gr', '100gr']",271.06
+1712,Fettine di lombata con germogli di soia ciliegini e salsa di soia,"['soia', 'olio', 'soia', 'pomodori', 'lonza']","['2ml', '5ml', '10gr', '30gr', '100gr']",679.21
+1523,Fettine di pollo cotta al vapore con rucola e scaglie grana,"['pollo', 'sale', 'olio', 'rucola', 'formaggio']","['180gr', '0.5gr', '5ml', '5gr', '30gr']",980.32
+1682,Fettine di pollo cotta al vapore con salsa di avocado,"['avocado', 'pollo']","['40gr', '180gr']",857.74
+1574,Filetti di melanzane alla maggiorana,"['maggiorana', 'sale', 'olio', 'melanzane']","['0.5gr', '2gr', '5ml', '300gr']",157.03
+1676,filetti di peperoni saltati in padella,"['prezzemolo', 'sale', 'olio', 'peperoni']","['0.5gr', '1gr', '2ml', '190gr']",94.83
+1033,Filetto di cuore di merluzzo impanato,"['sale', 'olio', 'uova', 'pane', 'merluzzo']","['2gr', '5ml', '0.25unit', '40gr', '120gr']",432.85
+1306,Filetto di cuore di merluzzo impanato (nido),"['sale', 'olio', 'pane', 'merluzzo']","['1gr', '1ml', '20gr', '60gr']",186.85
+1639,Filetto di pesce alla mugnaia,"['sale', 'salvia', 'farina', 'burro', 'nasello']","['1gr', '1gr', '3gr', '5gr', '200gr']",551.67
+1673,Filetto di pesce in crosta di patate,"['sale', 'olio', 'patate', 'nasello']","['2gr', '3ml', '35gr', '150gr']",427.49
+1298,Filetto di pesce persico agli aromi (nido),"['maggiorana', 'timo', 'sale', 'olio', 'pesce']","['0.30000000000000004gr', '0.30000000000000004gr', '1gr', '1ml', '60gr']",64.47
+1253,Filetto di pesce persico al forno (110/120 gr circa),"['sale', 'olio', 'pesce']","['1gr', '2ml', '150gr']",155.8
+1434,Filetto di pollo ai ferri (100 gr circa),"['sale', 'olio', 'pollo']","['1.5gr', '5ml', '120gr']",567.25
+1659,Filetto di pollo grigliato con salsa BBQ e erba cipollina,"['olio', 'erba cipollina', 'bbq', 'pollo']","['3ml', '0.5gr', '10gr', '150gr']",701.52
+1002,Fiore di zucca ripieno,"['olio', 'pane', 'formaggio', 'uova', 'olio', 'ricotta', 'fiori zucca']","['2ml', '15gr', '0.72gr', '0.125unit', '1.6gr', '30gr', '1unit']",366.01
+1299,Formaggio primosale (nido),['primosale'],['50gr'],253.0
+1644,Frittata agli spinaci,"['sale', 'parmigiano reggiano', 'olio', 'spinaci', 'uova']","['1gr', '5gr', '2ml', '50gr', '2unit']",283.58
+1292,Frittata alle zucchine ( nido),"['sale', 'olio', 'formaggio', 'zucchine', 'uova']","['1gr', '1.5ml', '2.5gr', '30gr', '0.5unit']",74.43
+1494,Frittata con broccoletti e scamorza (circa 150g),"['sale', 'provola', 'olio', 'formaggio', 'broccoli', 'uova']","['1gr', '10gr', '2ml', '5gr', '50gr', '2unit']",332.24
+1602,Frittata con zucchine e ciliegini,"['pomodori', 'sale', 'parmigiano reggiano', 'cipolla', 'zucchine', 'uova']","['40gr', '1gr', '5gr', '2gr', '60gr', '2unit']",278.94
+1654,Frittata con zucchine e scamorza,"['sale', 'parmigiano reggiano', 'cipolla', 'provola', 'zucchine', 'uova']","['1gr', '5gr', '2gr', '10gr', '60gr', '2unit']",302.16
+1505,Frittata con zucchine fresche,"['zucchine', 'sale', 'parmigiano reggiano', 'cipolla', 'uova']","['100gr', '1gr', '5gr', '2gr', '2unit']",283.82
+1288,Frittata di carote ( nido),"['sale', 'olio', 'formaggio', 'carote', 'uova']","['1gr', '1ml', '2.5gr', '30gr', '0.5unit']",77.92
+1391,frittata di ceci senza uovo ( nido),"['sale', 'olio', 'formaggio', 'farina']","['1gr', '2ml', '10gr', '40gr']",143.86
+1699,Frittata mediterranea,"['olio', 'sale', 'formaggio', 'fantasia', 'uova']","['1ml', '2gr', '5gr', '80gr', '2unit']",304.88
+1300,Frittata semplice ( nido),"['sale', 'olio', 'formaggio', 'uova']","['1gr', '1ml', '2.5gr', '1unit']",132.48
+1579,Frittatina liscia,"['olio', 'sale', 'formaggio', 'uova']","['1ml', '1gr', '5gr', '2unit']",276.56
+1575,Fusilli alla mediterranea,"['basilico', 'fantasia', 'pomodori', 'fusilli']","['0.5gr', '50gr', '90gr', '90gr']",185.1
+873,Fusilli al pomodoro fatti da noi! (circa 300gr),"['pomodori', 'fusilli']","['120gr', '90gr']",173.64
+1696,Fusilli con crema rossa di fagiolini e olive taggiasche,"['olive', 'fagiolini', 'pomodori', 'fusilli']","['8gr', '40gr', '80gr', '90gr']",211.08
+1640,Fusilli con ragù di carote e zucchine,"['sale', 'olio', 'cipolla', 'carote zucchine', 'pomodori', 'fusilli']","['0.5gr', '2ml', '5gr', '60gr', '90gr', '90gr']",203.81
+1591,Fusilli con salmone fresco e pomodori ciliegini,"['sale', 'basilico', 'aglio', 'olio', 'salmone', 'pomodori', 'fusilli']","['1gr', '0.5gr', '0.5gr', '5ml', '30gr', '70gr', '90gr']",289.36
+1266,fusilli integrali al pomodoro ( nido),"['sale', 'pomodori', 'fusilli']","['4gr', '30gr', '40gr']",72.18
+1511,Fusilli salsiccia e funghi,"['aglio', 'prezzemolo', 'pomodori', 'fusilli', 'olio', 'funghi', 'salsiccia tagliata']","['0.5gr', '0.5gr', '90gr', '90gr', '2ml', '50gr', '30gr']",297.03
+1524,Gateaux vegetariano,"['uova', 'acqua', 'patate', 'latte', 'sale', 'mozzarella', 'piselli', 'formaggio']","['0.25unit', '0.115L', '30gr', '57ml', '1gr', '30gr', '30gr', '5gr']",452.61
+1363,Gazpacho,"['olio', 'pepe', 'sale', 'cipolla affettata', 'aglio', 'pomodori', 'peperoni', 'pane', 'aceto']","['12ml', '2gr', '5gr', '16gr', '5gr', '150gr', '100gr', '2unit', '27ml']",896.5
+1646,Gemelli ai funghi,"['prezzemolo', 'olio', 'sale', 'aglio', 'panna', 'funghi', 'funghi', 'pasta']","['0.5gr', '2ml', '1gr', '0.30000000000000004gr', '50ml', '50gr', '30gr', '90gr']",267.17
+1687,Gemelli in bruschetta,"['basilico', 'sale', 'olio', 'olive', 'pomodori', 'pasta']","['0.5gr', '1gr', '2ml', '10gr', '70gr', '90gr']",231.02
+1274,Gnocchetti all'ortolana (nido),"['gnocchetti', 'formaggio', 'basilico', 'cipolla', 'olio', 'sale', 'sale', 'verdure', 'passata pomodoro']","['40gr', '2gr', '1gr', '1gr', '2ml', '2gr', '4gr', '30gr', '20gr']",115.88
+1634,Gnocchetti sardi abruzzese,"['pomodori', 'salsiccia tagliata', 'gnocchetti']","['100gr', '30gr', '90gr']",259.96
+1435,Gnocchetti sardi alla salentina,"['olio', 'fagiolini', 'salsiccia tagliata', 'pomodori', 'gnocchetti']","['5ml', '20gr', '20gr', '80gr', '90gr']",284.67
+1688,Gnocchetti sardi alla tritone,"['olio', 'formaggio', 'dado', 'porro', 'carote zucchine', 'gnocchetti']","['2ml', '5gr', '5gr', '30gr', '70gr', '90gr']",241.92
+1271,gnocchetti sardi con ragù di lenticchie (nido),"['olio', 'soffritto', 'pomodori', 'lenticchie', 'gnocchetti']","['2ml', '2gr', '20gr', '30gr', '40gr']",266.27
+1566,Gnocchetti sardi peperoni e cornetti,"['basilico', 'fagiolini', 'peperoni', 'pomodori', 'gnocchetti']","['0.5gr', '20gr', '30gr', '90gr', '90gr']",189.71
+1677,Gnocchi di patate alla carrettiera,"['sale', 'basilico', 'olio', 'pomodori', 'provola', 'pomodori', 'gnocchi patate']","['1gr', '0.5gr', '2ml', '20gr', '20gr', '80gr', '200gr']",318.04
+1470,Hamburger  (circa 160g),"['sale', 'olio', 'carne trita']","['1gr', '2ml', '190gr']",1657.67
+1464,Hamburger di legumi e curry,"['olio', 'hamburger polpette legumi']","['5ml', '170gr']",559.78
+1580,Hamburger di manzo ai ferri,"['sale', 'olio', 'carne trita bovino']","['1gr', '2ml', '200gr']",1743.9
+1287,Hamburger di manzo ai ferri (nido),"['sale', 'olio', 'hamburger manzo']","['1.5gr', '1.5ml', '60gr']",723.07
+1536,Hamburger di mare con pomodori freschi e capperi,"['pesce', 'pepe', 'sale', 'sale', 'prezzemolo', 'pomodori', 'olio', 'aglio']","['120gr', '0.001gr', '1gr', '2gr', '0.5gr', '20gr', '2ml', '0.05gr']",136.34
+1507,Hamburger di tacchino e formaggi,"['sale', 'olio', 'provola', 'tacchino']","['1gr', '2ml', '30gr', '150gr']",763.39
+1301,Hamburger di vitello ai ferri (nido),"['sale', 'olio', 'vitello']","['1.5gr', '1.5ml', '50gr']",772.68
+1650,Hamburger vegetariano,"['sale', 'formaggio', 'uova', 'verdure miste']","['1gr', '5gr', '0.25unit', '150gr']",108.6
+1212,Hummus fatto da Noi!,"['finocchi', 'carote', 'prezzemolo', 'hummus']","['100gr', '100gr', '2gr', '1unit']",1227.6
+1638,Insalata alla nizzarda,"['sale', 'olio', 'olive', 'emmenthal', 'finocchi', 'insalatina verdure', 'pollo']","['1gr', '2ml', '5gr', '15gr', '20gr', '50gr', '100gr']",616.31
+1317,Insalata di carote julienne (nido),"['sale', 'olio', 'carote']","['0.5gr', '1.5ml', '40gr']",9.73
+1662,Insalata di ceci e verdure,"['sale', 'limone succo', 'olio', 'feta', 'insalata']","['1gr', '5ml', '1.5ml', '40gr', '165gr']",190.89
+1418,Insalata di farro,"['nodini fiordilatte', 'farro', 'pomodori', 'basilico', 'olio', 'olio', 'mais']","['30gr', '160gr', '30gr', '2gr', '5ml', '20gr', '10gr']",566.84
+1438,Insalata di farro (circa 300g),"['erba cipollina', 'aceto', 'sale', 'olio', 'ceci', 'pomodori', 'farro']","['1gr', '2ml', '1gr', '5ml', '50gr', '60gr', '180gr']",568.87
+1503,Insalata di farro con verdure pomodori e  basilico,"['fantasia', 'basilico', 'sale', 'olio', 'pomodori', 'farro']","['80gr', '0.5gr', '1gr', '2ml', '30gr', '150gr']",300.82
+1670,insalata di farro e orzo estiva,"['sale', 'olio', 'rucola', 'pomodori', 'mozzarella', 'orzo', 'farro']","['1gr', '2ml', '5gr', '60gr', '50gr', '65gr', '65gr']",589.12
+1285,insalata di farro (nido),"['mais', 'olio', 'sale', 'sale', 'primosale', 'olive', 'pomodori', 'farro', 'carote']","['8gr', '5ml', '2gr', '3gr', '15gr', '5gr', '10gr', '30gr', '30gr']",202.13
+1313,Insalata di finocchi (nido),"['sale', 'aceto', 'olio', 'finocchi']","['1gr', '2.5ml', '2.5ml', '50gr']",10.39
+1221,Insalata di gamberoni argentini alla mediterranea,"['cipolla affettata', 'sale', 'olio', 'pomodori', 'olive', 'sedano', 'gambero']","['10gr', '1gr', '5ml', '20gr', '20gr', '20gr', '100gr']",380.52
+1479,Insalata di manzo rucola e parmigiano (circa 160g),"['sale', 'olio', 'rucola', 'formaggio', 'pomodori', 'noce bovino']","['1gr', '5ml', '5gr', '20gr', '30gr', '200gr']",654.44
+1362,Insalata di pasta,"['olive', 'sale', 'olio', 'primosale', 'rucola', 'pomodori', 'farfalle']","['5gr', '9gr', '2ml', '30gr', '10gr', '60gr', '80gr']",350.47
+1459,Insalata di pasta ai funghi misti con porcini,"['sale', 'aglio', 'olio', 'rucola', 'pomodori', 'funghi', 'pasta']","['1gr', '1gr', '3ml', '5gr', '50gr', '90gr', '75gr']",209.67
+1450,Insalata di pasta alla greca (circa 250g),"['sale', 'rucola', 'olio', 'olive', 'feta', 'pomodori', 'pasta']","['1gr', '5gr', '3ml', '10gr', '40gr', '50gr', '80gr']",346.61
+1520,Insalata di pasta alla malloreddus,"['zafferano', 'gnocchetti', 'pomodori', 'mais', 'sale', 'olio', 'rucola', 'funghi']","['0.05unit', '90gr', '30gr', '10gr', '1gr', '2ml', '5gr', '50gr']",1380.55
+1708,Insalata di pasta alla norma,"['basilico', 'sale', 'olio', 'ricotta salata', 'melanzane', 'pomodori', 'pasta']","['0.5gr', '1gr', '2ml', '10gr', '50gr', '50gr', '80gr']",231.79
+1679,Insalata di pasta all'isolana,"['olio', 'formaggio pecorino', 'pomodori', 'verdure', 'pasta']","['2ml', '10gr', '40gr', '60gr', '80gr']",238.21
+1584,Insalata di pasta al pesto,"['sale', 'mais', 'pesto', 'emmenthal', 'pomodori', 'pasta']","['0.5gr', '5gr', '10gr', '30gr', '50gr', '80gr']",471.41
+1647,Insalata di pasta al salmone fresco,"['olive', 'sale', 'olio', 'rucola', 'mais', 'pomodori', 'salmone', 'pasta']","['5gr', '1gr', '2ml', '5gr', '5gr', '40gr', '50gr', '90gr']",344.11
+1371,Insalata di pasta caprese,"['sale', 'mozzarella', 'olio', 'basilico', 'pomodori', 'farfalle']","['1gr', '30gr', '2ml', '1gr', '60gr', '80gr']",393.92
+1436,insalata di pasta classica,"['sale', 'olio', 'rucola', 'mais', 'formagella', 'prosciutto', 'pomodori', 'fusilli']","['1gr', '3ml', '5gr', '10gr', '20gr', '20gr', '50gr', '75gr']",360.04
+1567,Insalata di pasta con pesto di olive e mozzarella,"['sale', 'olio', 'pesto', 'mozzarella', 'olive', 'pomodori', 'pasta']","['1gr', '2ml', '5gr', '30gr', '20gr', '50gr', '80gr']",477.03
+1592,Insalata di pasta con salsa Hummus,"['pomodori', 'hummus', 'zucchine', 'pasta']","['30gr', '0.30000000000000004unit', '80gr', '70gr']",1344.73
+1665,Insalata di pasta integrale vegetariana,"['basilico', 'sale', 'olio', 'pomodori', 'verdure', 'fusilli']","['0.5gr', '1gr', '2ml', '30gr', '80gr', '90gr']",202.18
+1361,Insalata di pasta marinara,"['erba cipollina', 'ricotta', 'sale', 'olio', 'salmone', 'farfalle']","['2gr', '40gr', '9gr', '2ml', '30gr', '80gr']",530.31
+1512,Insalata di pasta rustica,"['sale', 'olive', 'olio', 'mais', 'rucola', 'provola', 'speck', 'pomodori', 'pasta']","['1gr', '5gr', '5ml', '10gr', '5gr', '15gr', '15gr', '40gr', '80gr']",366.06
+638,Insalata di pasta tricolore fatta da noi!,"['olive', 'sale', 'olio', 'formaggio', 'pesto', 'pomodori', 'farfalle']","['5gr', '9gr', '2ml', '10gr', '15gr', '60gr', '80gr']",321.63
+1582,Insalata di patate e cornetti,"['prezzemolo', 'sale', 'aceto', 'olio', 'fagiolini', 'patate']","['0.5gr', '1gr', '0.5ml', '2ml', '60gr', '100gr']",85.01
+1686,Insalata di patate e fagioli di spagna,"['fagioli', 'prezzemolo', 'sale', 'aceto', 'olio', 'patate']","['50gr', '0.5gr', '1gr', '2ml', '3ml', '100gr']",91.88
+1514,Insalata di pollo classica,"['emmenthal', 'olio', 'sale', 'mais', 'rucola', 'olive', 'insalatina verdure', 'pollo']","['10gr', '5ml', '1gr', '5gr', '5gr', '5gr', '30gr', '100gr']",597.94
+1674,Insalata di pollo fumè,"['prezzemolo', 'sale', 'olio', 'rucola', 'olive', 'mais', 'speck', 'provola', 'pollo']","['0.5gr', '1gr', '2ml', '5gr', '5gr', '10gr', '30gr', '30gr', '100gr']",754.14
+1402,Insalata di pollo grigliato,"['formagella', 'pollo', 'sale', 'olio', 'pomodori', 'radicchio', 'rucola']","['40gr', '100gr', '1gr', '5ml', '30gr', '5gr', '5gr']",617.83
+1568,Insalata di pollo valtellina,"['aglio', 'sale', 'olio', 'rucola', 'formaggio', 'funghi', 'funghi', 'pollo']","['0.5gr', '1gr', '2ml', '5gr', '10gr', '50gr', '20gr', '130gr']",656.75
+1322,Insalata di pomodori ciliegini (nido),"['origano', 'basilico', 'sale', 'olio', 'pomodori']","['0.5gr', '1gr', '1gr', '2.5ml', '60gr']",17.23
+1328,Insalata di pomodori e mais (nido),"['mais', 'origano', 'basilico', 'sale', 'olio', 'pomodori']","['20gr', '0.5gr', '1gr', '1gr', '2.5ml', '40gr']",26.95
+1576,Insalata di riso 4 stagioni,"['sale', 'mais', 'funghi', 'olive', 'olio', 'emmenthal', 'carciofi', 'insalatina verdure', 'riso']","['1gr', '5gr', '20gr', '5gr', '20gr', '20gr', '30gr', '30gr', '130gr']",761.68
+1477,Insalata di riso basmati prosciutto e melone (circa 250g),"['menta', 'sale', 'olio', 'prosciutto', 'melone', 'riso']","['0.5gr', '0.5gr', '3ml', '30gr', '70gr', '150gr']",671.36
+1381,Insalata di riso con salmone affumicato fatta da noi!,"['olio', 'aceto', 'pomodori', 'primosale', 'salmone', 'verdure cotte', 'riso']","['5ml', '2ml', '20gr', '30gr', '30gr', '60gr', '156gr']",709.19
+1380,Insalata di riso con tacchino e prosciutto fatta da noi!,"['olio', 'aceto', 'mais', 'pomodori', 'prosciutto', 'primosale', 'tacchino', 'verdure cotte', 'riso']","['5ml', '5ml', '10gr', '20gr', '20gr', '20gr', '30gr', '60gr', '150gr']",830.89
+1651,Insalata di riso con tonno ciliegini  piselli e mais,"['sale', 'olio', 'olive', 'mais', 'piselli', 'pomodori', 'olio', 'riso']","['1gr', '2ml', '5gr', '5gr', '20gr', '30gr', '40gr', '150gr']",829.94
+574,Insalata di riso fatta da noi!,"['olio', 'verdure cotte', 'mais', 'primosale', 'pomodori', 'riso', 'aceto', 'prosciutto', 'olio']","['25gr', '55gr', '10gr', '20gr', '20gr', '148gr', '2ml', '20gr', '5ml']",931.45
+1378,Insalata di riso vegetariana fatta da noi!,"['caciocavallo', 'olio', 'aceto', 'mais', 'pomodori', 'verdure cotte', 'riso']","['30gr', '5ml', '2ml', '10gr', '20gr', '90gr', '145gr']",620.67
+1691,Insalata di riso venere,"['menta', 'sale', 'olio', 'piselli', 'carote', 'soia', 'mela', 'riso']","['0.5gr', '2gr', '5ml', '30gr', '20gr', '10gr', '30gr', '90gr']",348.94
+1281,Insalata di riso  versione vegetariana (nido),"['olive', 'caciocavallo', 'basilico', 'sale', 'olio', 'pomodori', 'riso', 'riso']","['2gr', '8gr', '2gr', '2gr', '2ml', '10gr', '30gr', '40gr']",249.61
+575,Insalata di riso versione vegetariana/vegana fatta da noi!,"['olive', 'caciocavallo', 'aceto', 'basilico', 'sale', 'olio', 'pomodori', 'riso', 'riso']","['5gr', '20gr', '5ml', '2gr', '3gr', '5ml', '30gr', '80gr', '80gr']",591.91
+1700,Insalata di salmone con fagiolini e ciliegini,"['sale', 'olio', 'pomodori', 'fagiolini', 'salmone']","['1gr', '2ml', '35gr', '35gr', '100gr']",304.93
+1248,Insalata mista (60 g a porzione),['insalata'],['60gr'],21.24
+1012,Insalata russa,"['uova', 'maionese', 'piselli', 'carote', 'patate']","['0.4unit', '70gr', '40gr', '40gr', '50gr']",259.75
+1251,Insalatona con mozzarella e tonno (circa 320 gr),"['mozzarella', 'pomodori', 'olio', 'radicchio', 'carote', 'insalata']","['80gr', '60gr', '40gr', '40gr', '60gr', '40gr']",1008.22
+1008,Lasagna al pesto,"['formaggio', 'pesto aglio', 'mozzarella', ""pasta all'uovo surgelata"", 'besciamella']","['20gr', '30gr', '60gr', '52gr', '220gr']",1337.07
+11,Lasagne alla bolognese fatte da noi! (circa 300g),"['ragù carne', 'formaggio', ""pasta all'uovo surgelata"", 'besciamella']","['160gr', '15gr', '52gr', '160gr']",1997.85
+1527,Linguine con vongole e ciliegini,"['pomodori', 'sale', 'prezzemolo', 'aglio', 'olio', 'pomodori', 'lupini', 'linguine']","['20gr', '1gr', '0.5gr', '2gr', '5ml', '30gr', '100gr', '90gr']",617.11
+1490,Lombata aceto balsamico e aneto ( circa 120g),"['aneto', 'aceto', 'olio', 'lonza']","['0.5gr', '2ml', '3ml', '110gr']",690.47
+1660,Macedonia di frutta fresca,"['succo arancia', 'banana', 'albicocca', 'pesca', 'mela', 'ananas', 'melone']","['0.1unit', '2unit', '3unit', '4unit', '1unit', '25gr', '25gr']",1447.88
+1484,Melanzana ripiena con verdure e mozzarella (circa 250g),"['basilico', 'sale', 'olio', 'formaggio', 'mozzarella', 'fantasia', 'melanzane']","['0.5gr', '1gr', '3ml', '5gr', '20gr', '100gr', '120gr']",275.61
+1550,Melanzane al funghetto,"['pomodori', 'prezzemolo', 'aglio', 'sale', 'olio', 'melanzane']","['50gr', '0.4gr', '0.5gr', '2gr', '5ml', '150gr']",116.36
+746,Melanzane fresche grigliate,['melanzane'],['140gr'],50.68
+1491,melanzane trifolate,"['prezzemolo', 'aglio', 'sale', 'olio', 'melanzane']","['0.4gr', '0.5gr', '2gr', '5ml', '200gr']",123.76
+1323,Melanzane trifolate (nido),"['sale', 'prezzemolo', 'aglio', 'olio', 'melanzane']","['0.5gr', '1gr', '1gr', '2.5ml', '60gr']",33.22
+1701,Merluzzo in umido con cipolla e olive,"['olio', 'prezzemolo', 'capperi olive', 'cipolla affettata', 'pomodori', 'merluzzo']","['2ml', '0.5gr', '10gr', '30gr', '90gr', '100gr']",307.93
+1528,Mezze maniche alla zingara,"['bacon', 'pomodori', 'zucchine', 'peperoni', 'sale', 'basilico', 'pepe', 'pomodori', 'pasta']","['20gr', '20gr', '30gr', '30gr', '1gr', '0.5gr', '0.001gr', '50gr', '90gr']",327.79
+1641,Mezze maniche pomodori freschi pancetta rucola,"['bacon', 'rucola', 'olio', 'cipolla', 'pomodori', 'pomodori', 'pasta']","['20gr', '5gr', '2ml', '2gr', '20gr', '60gr', '90gr']",329.9
+1577,Mezze penne ai carciofi,"['prezzemolo', 'aglio', 'carciofi', 'pomodori', 'penne']","['0.2gr', '0.5gr', '60gr', '90gr', '90gr']",218.0
+1635,Mezze penne alla crudaiola,"['basilico', 'sale', 'olio', 'aglio', 'funghi', 'zucchine', 'pomodori', 'penne']","['0.5gr', '1gr', '2ml', '0.5gr', '30gr', '40gr', '60gr', '90gr']",203.67
+1593,Mezze penne all'arrabbiata,"['prezzemolo', 'peperoncino', 'aglio', 'pomodori', 'penne']","['0.5gr', '0.2gr', '1gr', '120gr', '90gr']",177.83
+1521,Mezze penne alla siciliana,"['olio', 'penne', 'aglio', 'sale', 'basilico', 'panna', 'melanzane', 'pomodori']","['2ml', '90gr', '0.5gr', '1gr', '0.5gr', '10ml', '50gr', '80gr']",213.35
+1276,mezze penne  al pomodoro ( nido),"['sale', 'pomodori', 'penne']","['4gr', '30gr', '40gr']",72.18
+1697,Mezze penne con spada e melanzane,"['basilico', 'sale', 'aglio', 'olio', 'melanzane', 'pesce spada', 'pomodori', 'penne']","['0.5gr', '1gr', '0.5gr', '2ml', '35gr', '35gr', '70gr', '90gr']",256.64
+1437,Mezze  penne nasello e olive taggiasche,"['prezzemolo', 'olive', 'nasello', 'pomodori', 'penne']","['2gr', '10gr', '40gr', '80gr', '80gr']",296.49
+1272,Mezze penne Olio e formaggio ( nido),"['sale', 'formaggio', 'olio', 'penne']","['4gr', '4gr', '4ml', '40gr']",124.6
+1275,Minestrone estivo con crostini  (nido),"[""crostini all'olio oliva"", 'formaggio', 'olio', 'dado', 'verdure minestrone']","['0.1unit', '5gr', '2ml', '4gr', '80gr']",379.7
+1440,Orecchiette con le cime  (circa 300g),"['sale', 'peperoncino', 'aglio', 'olio', 'dado', 'cime rapa', 'orecchiette']","['0.5gr', '0.5gr', '2gr', '10ml', '10gr', '200gr', '100gr']",395.27
+1661,Orecchiette fresche con ciliegini i formaggio stagionato,"['basilico', 'sale', 'sale', 'olio', 'formaggio', 'pomodori', 'orecchiette']","['1gr', '1gr', '9gr', '10ml', '15gr', '80gr', '100gr']",354.27
+1327,orzotto con piselli in brodo  (nido),"['sale', 'cipolla', 'burro', 'piselli', 'dado', 'orzo']","['2gr', '2gr', '4gr', '40gr', '8gr', '20gr']",107.26
+1629,Padellata mediterranea,"['prezzemolo', 'olio', 'sale', 'vino', 'carne mista verdure padellata']","['0.5gr', '2ml', '1gr', '5ml', '180gr']",90.88
+219,Parmigiana di melanzane fatta da noi! (circa 300 gr),"['pane', 'formaggio', 'olio', 'farina', 'mozzarella', 'pomodori', 'melanzane']","['13gr', '15gr', '20ml', '15gr', '25gr', '150gr', '150gr']",575.13
+1278,passato di legumi e verdure (nido),"['verdure', 'sale', 'olio', 'ceci']","['60gr', '2gr', '2ml', '20gr']",124.08
+1243,Pasta bianca (250 g circa),"['pasta', 'olio', 'sale']","['125gr', '2ml', '1gr']",250.42
+1280,Pasta corta al ragù fatte da noi! (nido),"['ragù carne', 'sale', 'olio', 'pasta']","['40gr', '0.4gr', '0.9ml', '40gr']",427.57
+1245,Pasta corta al ragù fatto da noi! (circa 300 g),"['ragù carne', 'sale', 'olio', 'pasta']","['120gr', '0.8gr', '0.9ml', '90gr']",1209.86
+1246,Pasta integrale (250 g circa),"['sale', 'olio', 'fusilli']","['1gr', '2ml', '125gr']",224.8
+1283,Pasta integrale con crema di melanzane (nido),"['aglio', 'sale', 'olio', 'melanzane', 'fusilli']","['1gr', '4gr', '5ml', '30gr', '40gr']",125.46
+1714,Patate al forno con cipolla rossa,"['sale', 'cipolla affettata', 'olio', 'patate']","['2gr', '40gr', '5ml', '170gr']",103.48
+563,Patate al forno fatte da noi!,"['sale', 'rosmarino', 'olio', 'patate']","['2gr', '2gr', '5ml', '212gr']",109.8
+1603,Patate pomodori e origano,"['origano', 'aglio', 'olio', 'pomodori', 'patate']","['0.05gr', '0.5gr', '2ml', '30gr', '110gr']",57.6
+990,Patate prezzemolate fatte da Noi!,"['prezzemolo', 'sale', 'olio', 'patate']","['1gr', '2gr', '2ml', '125gr']",62.23
+1545,Pennette al ragù di riccia,"['vino', 'pasta salsiccia', 'pomodori', 'pennette']","['0.5ml', '40gr', '100gr', '90gr']",326.57
+1648,Pennette amatriciana,"['guanciale', 'pomodori', 'pennette']","['30gr', '100gr', '90gr']",428.05
+1441,Pennette con ragù di lenticchie (circa 300g),"['sale', 'olio', 'soffritto', 'sale', 'passata pomodoro', 'lenticchie', 'pennette']","['1gr', '3ml', '5gr', '8gr', '45gr', '60gr', '90gr']",552.41
+1678,Pennette con salmone affumicato porri e piselli,"['sale', 'olio', 'salmone', 'piselli', 'porro', 'pomodori', 'pennette']","['1gr', '2ml', '20gr', '30gr', '30gr', '60gr', '90gr']",260.37
+1502,Pennette speck e peperoni,"['prezzemolo', 'pennette', 'peperoni', 'speck', 'pomodori']","['0.5gr', '90gr', '30gr', '20gr', '100gr']",304.01
+1585,Pennette tonno e olive taggiasche,"['prezzemolo', 'aglio', 'olive', 'olio', 'pomodori', 'pennette']","['0.5gr', '0.5gr', '10gr', '30gr', '90gr', '90gr']",490.68
+748,Peperoni filetti cotti al forno senza pelle,"['prezzemolo', 'sale', 'olio', 'peperoni']","['1gr', '2gr', '4ml', '180gr']",113.87
+732,Pesto fatto da noi con basilico fresco e Parmigiano Reggiano 30 mesi,['pesto'],['40gr'],202.4
+733,Pesto senza aglio fatto da noi con basilico fresco e Parmigiano Reggiano 30 mesi,['pesto aglio'],['40gr'],101.2
+1250,Petto di pollo ai ferri,"['sale', 'olio', 'pollo']","['1gr', '1ml', '120gr']",528.65
+1551,Piselli al vapore,"['sale', 'piselli']","['0.5gr', '170gr']",101.15
+1589,Piselli e prosciutto,"['sale', 'burro', 'prosciutto', 'piselli']","['0.5gr', '2gr', '50gr', '100gr']",382.51
+1468,Piselli pomodori freschi e basilico,"['basilico', 'sale', 'cipolla', 'olio', 'pomodori', 'piselli']","['0gr', '1gr', '5gr', '3ml', '50gr', '100gr']",100.51
+1319,Piselli saltati (nido),"['sale', 'olio', 'piselli']","['0.5gr', '1.5ml', '60gr']",37.63
+1597,Pizzaiola,"['sale', 'origano', 'farina', 'aglio', 'vino', 'pomodori', 'noce bovino']","['1gr', '0.02gr', '5gr', '0.5gr', '5ml', '80gr', '100gr']",279.4
+1120,Pizzoccheri Planeat,"['verza tagliata lavata', 'aglio', 'formaggio', 'salvia', 'formaggio', 'burro', 'patate', 'coste', 'fusilli']","['30gr', '5gr', '60gr', '2gr', '20gr', '20gr', '30gr', '30gr', '100gr']",735.0
+1387,Platessa al forno,"['sale', 'olio', 'platessa']","['1gr', '2ml', '90gr']",252.4
+1293,polpette di legumi  (nido),"['polpettine legumi', 'olio']","['1unit', '1ml']",110.65
+1598,Polpettine di pesce al vino bianco,"['acqua', 'dado', 'farina', 'vino', 'prezzemolo', 'aglio', 'pesce']","['0.05L', '5gr', '2gr', '10ml', '0.5gr', '0.5gr', '120gr']",182.15
+1515,Polpettine funghi e pomodori freschi,"['pomodori', 'polpettine carne bovina', 'sale', 'prezzemolo', 'vino', 'funghi']","['30gr', '150gr', '1gr', '0.5gr', '5ml', '50gr']",1323.83
+993,Polpo con patate,"['sedano', 'sale', 'prezzemolo', 'cipolla', 'carote', 'olio', 'patate', 'polpo']","['10gr', '1gr', '2gr', '10gr', '10gr', '5ml', '100gr', '200gr']",617.26
+1590,Pomodori al forno,"['origano', 'sale', 'olio', 'pomodori']","['0.2gr', '2gr', '5ml', '200gr']",91.12
+1249,Pomodori ciliegini (100 gr a porzione),['pomodori'],['100gr'],21.4
+1516,Portafoglio di melanzane vegetariano,"['uova', 'provola', 'olio', 'sale', 'pane', 'melanzane']","['0.25unit', '60gr', '5ml', '1gr', '30gr', '60gr']",323.55
+1666,Prosciutto crudo e melone,"['prosciutto', 'melone']","['50gr', '150gr']",456.2
+1318,Purè di patate (nido),"['burro', 'latte', 'formaggio', 'sale', 'patate']","['2gr', '35ml', '2.5gr', '1gr', '70gr']",78.02
+332,Ragù di carne fatto da noi!,"['zucchero', 'olio', 'sale', 'vino', 'soffritto', 'carne trita', 'passata pomodoro']","['0.30000000000000004gr', '1.5ml', '1.5gr', '6ml', '6gr', '58gr', '114gr']",563.57
+1626,Ravioli di carne al pomodoro,"['pomodori', 'ravioli']","['100gr', '125gr']",226.9
+1504,Ravioli di magro pomodoro e basilico,"['pomodori', 'ravioli ricotta spinaci']","['120gr', '125gr']",402.89
+1529,Rigatini alla carrettiera,"['sale', 'olio', 'pomodori', 'basilico', 'provola', 'pomodori', 'pasta']","['1gr', '2ml', '20gr', '0.5gr', '20gr', '80gr', '90gr']",270.85
+1604,Rigatini al pesto siciliano,"['noci', 'basilico', 'ricotta', 'pomodori', 'pasta']","['10gr', '0.5gr', '35gr', '85gr', '90gr']",483.05
+1652,Rigatini con crema di melanzane e pomodori,"['basilico', 'sale', 'olio', 'aglio', 'pomodori', 'pomodori', 'melanzane', 'pasta']","['0.5gr', '1gr', '2ml', '0.5gr', '10gr', '30gr', '70gr', '90gr']",220.08
+1247,Riso al pomodoro,"['riso', 'pomodori']","['220gr', '80gr']",585.82
+1586,Riso basmati con funghi parmigiano e rucola,"['aglio', 'sale', 'olio', 'rucola', 'formaggio', 'funghi', 'riso']","['0.5gr', '1gr', '2ml', '5gr', '20gr', '100gr', '150gr']",542.51
+1637,Riso basmati con gamberetti e ciliegini,"['sale', 'basilico', 'olio', 'pomodori', 'gamberetti', 'aglio', 'riso']","['1gr', '0.5gr', '2ml', '60gr', '50gr', '0.5gr', '150gr']",549.86
+1424,Riso  basmati lesso,"['olio', 'riso']","['2ml', '250gr']",665.55
+983,Riso lesso (250 g circa),"['olio', 'riso']","['2ml', '250gr']",665.55
+1600,Riso pilaf asparagi e curry,"['sale', 'olio', 'dado', 'asparagi', 'riso']","['1gr', '5ml', '8gr', '1gr', '80gr', '100gr']",289.44
+1461,Riso pilaf con porri e zucchine,"['riso', 'sale', 'olio', 'dado', 'porro', 'zucchine']","['100gr', '1gr', '5ml', '8gr', '60gr', '80gr']",387.11
+1709,Riso pilaf con ratatoille di verdure,"['sale', 'olio', 'dado', 'basilico', 'fantasia', 'riso']","['1gr', '5ml', '8gr', '0.5gr', '140gr', '100gr']",388.73
+1522,Risotto alla milanese,"['burro', 'vino', 'cipolla', 'formaggio', 'zafferano', 'dado', 'riso']","['10gr', '5ml', '5gr', '20gr', '0.02unit', '20gr', '90gr']",1657.7
+1279,Risotto alla milanese (nido),"['zafferano', 'sale', 'cipolla', 'burro', 'formaggio', 'dado', 'riso']","['0.002unit', '2gr', '2gr', '4gr', '8gr', '8gr', '40gr']",1380.88
+1273,Risotto con crema di asparagi (nido),"['cipolla', 'formaggio', 'asparagi', 'dado', 'riso']","['2gr', '8gr', '20gr', '8gr', '40gr']",219.66
+1270,Risotto con zucchine (nido),"['olio', 'sale', 'cipolla', 'formaggio', 'zucchine', 'dado', 'riso']","['2ml', '2gr', '2gr', '8gr', '40gr', '8gr', '40gr']",209.4
+1383,Riso venere con verdure,"['verdure cotte', 'basilico', 'sale', 'olio', 'sale', 'riso']","['120gr', '2gr', '2gr', '5ml', '9gr', '85gr']",311.16
+1254,Riso venere con verdure,"['basilico', 'sale', 'olio', 'sale', 'carote zucchine', 'riso']","['2gr', '2gr', '5ml', '9gr', '120gr', '85gr']",300.54
+1385,Riso venere con verdure e primosale,"['primosale', 'basilico', 'sale', 'olio', 'sale', 'verdure cotte', 'riso']","['30gr', '2gr', '2gr', '5ml', '9gr', '90gr', '85gr']",452.34
+1384,Riso venere con verdure e salmone affumicato,"['salmone', 'basilico', 'sale', 'olio', 'sale', 'verdure cotte', 'riso']","['30gr', '2gr', '2gr', '5ml', '9gr', '90gr', '85gr']",378.24
+220,Roast beef,"['sale', 'olio', 'manzo rostbeef']","['1.5gr', '5ml', '140gr']",1130.8
+653,Salsa di pomodoro fatta da noi!,"['basilico', 'sale', 'olio', 'cipolla', 'passata pomodoro']","['0.6000000000000001gr', '1.2gr', '1.2ml', '6gr', '120gr']",63.43
+1471,Scaloppina al limone  (circa 180g),"['prezzemolo', 'sale', 'olio', 'limone succo', 'farina', 'lonza']","['0.5gr', '1.5gr', '3ml', '10ml', '20gr', '120gr']",794.88
+1525,Scaloppina partenopea,"['dado', 'olio', 'acqua', 'pomodori', 'vino', 'basilico', 'farina', 'lonza']","['2gr', '2ml', '0.06L', '30gr', '1ml', '0.5gr', '5gr', '120gr']",806.55
+1655,Scaloppina rucola e scaglie di parmigiano,"['formaggio', 'sale', 'olio', 'rucola', 'farina', 'lonza']","['10gr', '1gr', '2ml', '5gr', '10gr', '120gr']",808.72
+1302,Scaloppine di pollo al limone (nido),"['farina', 'prezzemolo', 'sale', 'olio', 'limone succo', 'pollo']","['10gr', '1gr', '1gr', '2.5ml', '5ml', '60gr']",292.33
+1478,Spaghetti aglio olio e peperoncino con pomodori freschi (circa 250g),"['prezzemolo', 'peperoncino', 'sale', 'pomodori', 'aglio', 'olio', 'spaghetti']","['0.5gr', '0.5gr', '1gr', '20gr', '2gr', '20ml', '100gr']",366.57
+1154,Spezzatino di manzo al vino rosso,"['olio', 'rosmarino', 'farina', 'pepe', 'passata pomodoro', 'vino', 'sale', 'soffritto', 'spezzatino manzo']","['2ml', '0.30000000000000004gr', '0.75gr', '0.1gr', '17.5gr', '25ml', '1gr', '15gr', '214gr']",1704.95
+1290,Spezzatino di vitello alla pizzaiola ( nido),"['origano', 'olio', 'sale', 'soffritto', 'passata pomodoro', 'vitello']","['0.1gr', '2ml', '1gr', '5gr', '10gr', '50gr']",796.59
+1569,Spiedini gratinati,"['olio', 'gratinatura', 'pollo']","['2ml', '50gr', '1unit']",852.3
+1657,Spinaci al burro,"['sale', 'burro', 'formaggio', 'spinaci']","['1gr', '2gr', '5gr', '200gr']",94.81
+1510,Spinaci al vapore,"['sale', 'olio', 'spinaci']","['1gr', '2ml', '280gr']",101.06
+1485,Spinaci filanti (circa 150g),"['sale', 'burro', 'formaggio', 'mozzarella', 'spinaci']","['1gr', '2gr', '5gr', '20gr', '200gr']",237.15
+1329,Spinaci freschi al vapore (nido),"['sale', 'olio', 'spinaci']","['0.5gr', '1.5ml', '80gr']",25.29
+1308,Spinaci freschi cotti in padella (nido),"['sale', 'olio', 'spinaci']","['0.5gr', '1.5ml', '80gr']",25.29
+1583,Spinaci pomodori freschi e acciughe,"['aglio', 'olio', 'pomodori', 'olio', 'spinaci']","['0.5gr', '2ml', '20gr', '5gr', '250gr']",145.12
+1631,Straccetti di manzo in insalata,"['sale', 'olio', 'formaggio', 'insalatina verdure', 'manzo']","['1gr', '2ml', '10gr', '30gr', '1unit']",3934.27
+1549,straccetti  di pollo al limone,"['prezzemolo', 'sale', 'olio', 'farina', 'limone succo', 'pollo']","['0.5gr', '1gr', '5ml', '10gr', '20ml', '140gr']",689.5
+1587,Straccetti di pollo con filetti di peperoni freschi,"['prezzemolo', 'sale', 'olio', 'cipolla affettata', 'peperoni', 'pollo']","['2gr', '2gr', '5ml', '10gr', '50gr', '120gr']",601.91
+1297,straccetti di tacchino al forno (nido),"['sale', 'olio', 'tacchino']","['0.75gr', '2.5ml', '50gr']",220.11
+1704,Taccole al burro,"['sale', 'formaggio', 'burro', 'taccole']","['1gr', '2gr', '5gr', '160gr']",94.53
+1312,taccole olio e limone (nido),"['olio', 'sale', 'limone succo', 'taccole']","['5ml', '9gr', '4ml', '60gr']",72.23
+1495,Tagliata di pollo alle erbe aromatiche (circa120g),"['erbe aromatiche', 'olio', 'pollo']","['5gr', '5ml', '120gr']",568.26
+1452,Tagliatelle al ragù di pesce,"['prezzemolo', 'olio', 'sale', 'vino', 'aglio', 'pesce', 'pomodori', ""tagliatelle all'uovo""]","['0.5gr', '5ml', '2gr', '5ml', '1gr', '40gr', '85gr', '85gr']",183.28
+433,Tagliatelle al ragù fatte da noi! (circa 300 gr),"['ragù carne', ""tagliatelle all'uovo""]","['140gr', '80gr']",1274.98
+1463,Tonnato,"['tonnata', 'lonza']","['100gr', '80gr']",2020.54
+1509,Tonnato,"['olio', 'sale', 'olio', 'maionese', 'lonza']","['10gr', '5gr', '20gr', '5gr', '80gr']",780.36
+1453,Tortiglioni alla campidanese,"['sale', 'vino', 'olio', 'soffritto', 'salsiccia tagliata', 'pomodori', 'tortiglioni']","['1gr', '5ml', '5ml', '10gr', '40gr', '70gr', '90gr']",339.87
+1653,Tortiglioni  amatriciana di verdure,"['tortiglioni', 'fantasia', 'guanciale', 'pomodori']","['90gr', '40gr', '20gr', '90gr']",353.84
+1698,Tortiglioni panna prosciutto e piselli,"['sale', 'burro', 'prosciutto', 'piselli', 'panna', 'tortiglioni']","['1gr', '2gr', '20gr', '30gr', '70ml', '90gr']",374.48
+1513,"Tortiglioni zucchine, ricotta e basilico","['basilico', 'ricotta', 'zucchine', 'pomodori', 'tortiglioni']","['0.5gr', '30gr', '30gr', '90gr', '90gr']",390.99
+1588,Tortilla di patate,"['sale', 'pepe', 'olio', 'cipolla affettata', 'patate', 'uova']","['3gr', '1gr', '5ml', '40gr', '100gr', '2unit']",332.61
+1389,Tortino di nasello (nido),"['sale', 'olio', 'nasello']","['1gr', '2ml', '100gr']",278.3
+1341,Tortino vegetariano,"['erba cipollina', 'pane', 'patate', 'sale', 'olio', 'pomodori', 'zucchine vegetariano']","['2gr', '21gr', '58gr', '1.6gr', '4ml', '20gr', '83gr']",99.15
+1572,Tortino vegetariano con curcuma e sesamo,"['curcuma macinata', 'uova', 'formaggio', 'verdure miste']","['10gr', '2gr', '0.25unit', '10gr', '180gr']",49.97
+1282,Trofie fresche al pesto artigianale (nido),"['formaggio', 'sale', 'pesto', 'trofie']","['5gr', '4gr', '15gr', '40gr']",166.96
+1305,Uova sode  (nido),"['sale', 'uova']","['2gr', '1unit']",120.81
+1267,vellutata di carote con crostini ( nido),"[""crostini all'olio oliva"", 'formaggio', 'sale', 'olio', 'cipolla', 'carote']","['0.1unit', '5gr', '1.5gr', '2ml', '2gr', '80gr']",351.4
+1268,vellutata di zucchine e porri con riso ( nido),"['sale', 'riso', 'porro', 'olio', 'cipolla', 'zucchine']","['1gr', '25gr', '20gr', '2ml', '2gr', '80gr']",118.42
+975,Vitello tonnato,"['vitello', 'tonnata']","['70gr', '80gr']",2312.25
+1467,Zucchina ripiena gratinata (circa 250g),"['sale', 'formaggio', 'ricotta', 'carne trita', 'zucchine']","['2gr', '5gr', '30gr', '120gr', '150gr']",1323.97
+594,Zucchina ripiena vegetariana fatta da noi! (2 a porzione),"['sale', 'formaggio', 'uova', 'ricotta', 'dadolata verdure zucchine', 'zucchine']","['2gr', '5gr', '0.25unit', '30gr', '120gr', '150gr']",361.89
+1705,Zucchine al curry,"['prezzemolo', 'aglio', 'sale', 'olio', 'zucchine']","['0.5gr', '0.5gr', '0.5gr', '1gr', '3ml', '180gr']",14.47
+1486,Zucchine al funghetto,"['sale', 'prezzemolo', 'aglio', 'olio', 'pomodori', 'zucchine']","['1gr', '0.4gr', '0.5gr', '2ml', '20gr', '120gr']",67.01
+1309,Zucchine alla menta ( nido),"['sale', 'menta', 'olio', 'zucchine']","['1gr', '0.5gr', '2ml', '60gr']",39.64
+744,Zucchine fresche grigliate,['zucchine'],['140gr'],47.04
+1497,Zucchine trifolate,"['prezzemolo', 'aglio', 'sale', 'olio', 'zucchine']","['0.5gr', '0.5gr', '1gr', '3ml', '180gr']",93.24
+1315,Zucchine trifolate (nido),"['sale', 'prezzemolo', 'aglio', 'olio', 'zucchine']","['1gr', '0.5gr', '0.5gr', '5ml', '60gr']",72.22
+864,Zuppa di legumi e cereali fatta da noi!,"['sale', 'alloro', 'rosmarino', 'passata pomodoro', 'olio', 'soffritto', 'legumi cereali']","['3gr', '1gr', '2gr', '8gr', '5ml', '10gr', '70gr']",128.58
+1334,Ananas tagliato maturato in pianta (nido),['ananas'],['100gr'],25.5
+1333,Arancia Tarocco Sicilia (nido),['arancia'],['100gr'],56.0
+1332,Banana Chiquita (nido),['banana'],['100gr'],79.0
+1335,Fragole (nido),['fragola'],['100gr'],34.7
+1330,Mela Fuji Marlene (nido),['mela'],['100gr'],82.2
+1331,Mela Golden Melinda (nido),['mela'],['100gr'],82.2
+1277,Pizza margherita (nido),['pizza'],['100gr'],125.9
+1412,Albicocca Mogador 1 porzione (140/150 g)  2/3  frutti,['albicocca'],['140gr'],180.18
+606,Albicocca orange Rubis 1 porzione (100/120 gr)  2/3  frutti,['albicocca'],['100gr'],128.7
+985,Ananas tagliato maturato in pianta,['ananas'],['1.5kg'],51.0
+85,Ancora uno Frollino con pezzi di cioccolato Tre Marie,['biscotti'],['350gr'],726.25
+301,Ancora uno Krumiro con cioccolato croccante Tre Marie,['biscotti'],['350gr'],726.25
+1718,Anguria tagliata pronta al consumo,['anguria'],['300gr'],70.5
+23,Arancia navel Italia 1 pz da circa 200/220gr,['arancia'],['110gr'],61.6
+1133,Arancia Tarocco Sicilia 1 pz circa 200 gr,['arancia'],['110gr'],61.6
+796,Baffo di ricciola scottata in padella,['ricciola'],['120gr'],310.8
+21,Banana Chiquita 1 pz da circa 200 g,['banana'],['30gr'],23.7
+905,Barbera dell’Oltrepò Pavese DOC Vigna Poggio Anna  Quaquarini,['vino'],['1l'],869.0
+822,Birra Artigianale Castana ambrata al miele di Castagno 500 ml,['birra'],['500ml'],149.0
+821,Birra Artigianale Castana ambrata al miele di Castagno 750 ml,['birra'],['750ml'],223.5
+1409,Birra artigianale Hopart,['birra'],['500ml'],149.0
+820,Birra artigianale Oltre Golden Ale chiara 750 ml,['birra'],['750ml'],223.5
+929,Birra artigianale Orange Bock,['birra'],['500ml'],149.0
+928,Birra artigianale Reset,['birra'],['500ml'],149.0
+927,Birra artigianale Seta,['birra'],['500ml'],149.0
+1170,birra a scelta+ biglietto birra omaggio,['birra'],['500ml'],149.0
+661,Biscotti artigianali con gocce di cioccolato,['biscotti'],['200gr'],415.0
+660,Biscotti artigianali da latte,['biscotti'],['200gr'],415.0
+662,Biscotti artigianali integrali,['biscotti'],['200gr'],415.0
+906,Blau Pinot Nero dell’Oltrepò Pavese DOC Bio  Quaquarini,['vino'],['1l'],869.0
+134,Bocconcini di pane,['pane'],['20gr'],21.8
+138,Bocconcini di pane al sesamo,['pane'],['20gr'],21.8
+136,Bocconcini di pane integrale,['pane'],['20gr'],21.8
+1286,Bocconcini di pane (nido),['pane'],['20gr'],21.8
+986,Bonarda dell’Oltrepò Pavese DOC Bio – senza solfiti aggiunti,['vino'],['1l'],869.0
+1339,Bresaola artigianale a fette,['bresaola'],['100gr'],1541.5
+116,Bresaola punta d'anca affettata,['bresaola'],['100gr'],1541.5
+612,Bresaola Wagyu affettata,['bresaola'],['100gr'],1541.5
+1456,Bun ai semi di papavero,['pane'],['50gr'],54.5
+1457,Bun ai semi di sesamo,['pane'],['50gr'],54.5
+543,Buon per tutti Galbusera Bio (200g),['pane'],['200gr'],218.0
+311,Buon per tutti galbusera Bio 200 gr,['pane'],['200gr'],218.0
+373,Burrata gusto di una volta Granarolo 2 pz da 125 g,['burrata'],['125gr'],694.38
+630,Burratina fior di latte,['burrata'],['125gr'],694.38
+669,Burratina fiordilatte 125 gr,['burrata'],['125gr'],694.38
+823,Cachi 1 pz da 160-180gr,['caco'],['170gr'],8.5
+1035,Cannolo siciliano,['cannolo'],['20gr'],1.0
+1619,Carillo - Pinot Nero dell’Oltrepò Pavese DOC,['vino'],['1l'],869.0
+1241,Casera valtellina dop,['casera'],['100gr'],317.8
+809,Castagne fresche,['castagne'],['100gr'],275.0
+1049,Cheescake con salsa ai frutti di bosco per 4,['cheescake'],['400gr'],20.0
+828,Cheesecake con salsa ai frutti di bosco,['cheescake'],['100gr'],5.0
+1094,Chiacchiere di carnevale,['chiacchiere'],['100gr'],314.0
+1224,Ciabatta di semola di grano duro,['pane'],['300gr'],327.0
+1200,Ciabattina di semola di grano duro,['pane'],['300gr'],327.0
+581,Ciliegie Duroni Vignola Igp  (120gr),['ciliegie'],['120gr'],192.48
+1411,Ciliegie Ferrovia  (300g),['ciliegie'],['300gr'],481.2
+686,Ciliegie Regina Trentino  (120gr),['ciliegie'],['120gr'],192.48
+27,Clementine 2/3 pz circa 150gr,['clementine'],['150gr'],112.2
+1034,Coda d'aragosta al cioccolato,"['pasta sfoglia', 'cioccolato']","['300gr', '20gr']",628.77
+1180,Colomba nocciole e cioccolato,['colomba'],['200gr'],328.8
+1201,Colomba nocciole e cioccolato con Moscato,['colomba'],['200gr'],328.8
+1181,Colomba pere e cioccolato,"['colomba', 'pere', 'cioccolato']","['200gr', '50gr', '20gr']",718.82
+1202,Colomba pere e cioccolato con Moscato,"['colomba', 'pere', 'cioccolato']","['200gr', '50gr', '20gr']",718.82
+338,Composta di Fragole  St Dalfour Rapsodia di frutta,['marmellata'],['300gr'],942.0
+599,Confettura extra albicocche 65% frutta,['marmellata'],['500gr'],1570.0
+603,Confettura extra fragole 65% frutta,['marmellata'],['500gr'],1570.0
+605,Confettura extra mirtilli 65% frutta,['marmellata'],['500gr'],1570.0
+601,Confettura extra pesche 65% frutta,['marmellata'],['500gr'],1570.0
+1130,Crostata alla frutta,['crostatina'],['400gr'],1256.0
+1229,Crostata con marmellata di albicocche,"['crostatina', 'albicocche']","['300gr', '50gr']",1006.35
+826,Crostatina al cioccolato,"['crostatina', 'cioccolato']","['100gr', '20gr']",657.92
+825,Crostatina alla marmellata,"['crostatina', 'marmellata']","['100gr', '20gr']",376.8
+1228,Crostini all'olio di oliva,['crostini'],['200gr'],328.8
+1047,Cuore di frolla con frutta fresca,['torta'],['400gr'],292.8
+1046,Cuore di pan di spagna e crema chantilly,['chantilly'],['400gr'],1267.2
+1240,Dado vegetale fatto da noi,['dado'],['20gr'],80.6
+909,Dorato Moscato Vivace Provincia di Pavia Igt,['vino'],['1l'],869.0
+829,Eclair al pistacchio,['eclair'],['200gr'],628.0
+1561,Extra Brut Millesimato,['vino'],['1l'],869.0
+361,Fagotto di pollo farcito con speck e brie ed avvolto con pancetta fresca 220/250 gr,"['pollo', 'speck', 'pancetta']","['100gr', '20gr', '20gr']",677.02
+1119,Fette biscottate classiche Gentilini gr 185,['biscottate'],['185gr'],383.88
+1121,Fette biscottate integrali Gentilini gr 175,['biscottate'],['175gr'],363.12
+299,Fette biscottate Integrali   Mulino Bianco,['biscottate'],['200gr'],415.0
+542,Fette biscottate integrali Mulino Bianco (630g),['biscottate'],['630gr'],1307.25
+83,Fette biscottate le dorate  Mulino Bianco,['biscottate'],['500gr'],1037.5
+544,Fette biscottate le dorate Mulino Bianco (630g),['biscottate'],['630gr'],1307.25
+1124,Fette biscottate senza glutine Nutrifree 225gr,['biscottate'],['225gr'],466.88
+1227,Fettuccine alla curcuma,['pasta'],['100gr'],184.9
+1226,Fettuccine integrali multicereali,['pasta'],['100gr'],184.9
+712,Fiocchi di farro,['cereali'],['300gr'],493.2
+711,Fiocchi di mais,['cereali'],['300gr'],493.2
+1214,Focaccina tonda,['focaccia'],['100gr'],5.0
+1255,Formagella Borghella a fette,['formaggella'],['80gr'],4.0
+1291,Formagella borghella fette (nido),['formagella'],['80gr'],254.24
+799,Formaggio di Mascognaz,['formaggio'],['100gr'],506.0
+538,Formaggio grattugiato fresco,['formaggio'],['100gr'],506.0
+375,Formaggio grattugiato fresco (100 g),['formaggio'],['100gr'],506.0
+1259,Formaggio primosale,['formaggio'],['100gr'],506.0
+388,Fragole (300g),['fragole'],['300gr'],104.1
+1185,Francesino,['pane'],['200gr'],218.0
+533,Frollini con pezzi di cioccolato,['biscotti'],['400gr'],830.0
+730,Frumento soffiato con miele,['cereali'],['300gr'],493.2
+595,Gelato artigianale al fiordilatte (250g),['gelato'],['250gr'],474.5
+597,Gelato artigianale alla fragola (250g),['gelato'],['250gr'],474.5
+596,Gelato artigianale alla nocciola (250g),['gelato'],['250gr'],474.5
+598,Gelato artigianale al pistacchio (250g),['gelato'],['250gr'],474.5
+145,Gorgonzola dolce dop circa 80 g,['gorgonzola'],['80gr'],254.24
+1225,Grissini all'olio di oliva,['grissini'],['100gr'],164.4
+918,Kit aperitivo planeat (per 2/3 persone),"['prosciutto', 'salame', 'birra']","['300gr', '300gr', '1.5l']",3802.4
+1106,Kit per laboratorio di carnevale,"['limone', 'uova', 'farina', 'cioccolato']","['1unit', '1unit', '200gr', '100gr']",2280.83
+29,Kiwi Haiward Zespri,['kiwi'],['80gr'],41.12
+815,Kiwi SUNGOLD Zespri,['kiwi'],['80gr'],41.12
+536,Krumiro con cioccolato croccante,['biscotti'],['400gr'],830.0
+325,Latte Accadì senza lattosio Granarolo,['latte'],['500ml'],640.0
+534,Latte Accadì senza lattosio Granarolo (1 lt),['latte'],['1l'],1280.0
+760,Latte di avena senza zuccheri aggiunti Granarolo 1 Lt,['latte'],['1l'],1280.0
+759,Latte di soia fresco piu giorni Granarolo 1LT,['latte'],['1l'],1280.0
+530,Latte Esl Granarolo Biologico Intero (1 lt),['latte'],['1l'],1280.0
+76,Latte Esl Granarolo Biologico Intero 1 lt,['latte'],['1l'],1280.0
+535,Latte Esl Granarolo Biologico Ps (1 lt),['latte'],['1l'],1280.0
+79,Latte Esl Granarolo Biologico Ps 1 lt,['latte'],['1l'],1280.0
+537,Latte Uht Ps Granarolo (1 lt),['latte'],['1l'],1280.0
+81,Latte Uht Ps Granarolo 1 lt,['latte'],['1l'],1280.0
+613,Limone 1 pz  100/130 g,['latte'],['1l'],1280.0
+1105,Limone per kit,['limone'],['110gr'],70.62
+1129,Mandarino cinese,['mandarino'],['100gr'],74.8
+1560,Margherita - Pinot Nero vinificato in rosato DOC Bio (fermo),['vino'],['1l'],869.0
+89,Marmellata biologica albicocca Rigoni,['marmellata'],['500gr'],1570.0
+539,Marmellata biologica albicocca Rigoni (250g),['marmellata'],['250gr'],785.0
+532,Marmellata biologica fragole e fragoline di bosco Rigoni,['marmellata'],['250gr'],785.0
+91,Marmellata biologica fragole e fragoline di bosco Rigoni,['marmellata'],['250gr'],785.0
+90,Marmellata biologica pesca Rigoni,['marmellata'],['250gr'],785.0
+540,Marmellata biologica pesca Rigoni (250g),['marmellata'],['250gr'],785.0
+17,Mela Fuji Marlene 1 pz da circa 220/240 g,['mela'],['230gr'],189.06
+25,Mela Golden Melinda 1 pz da circa 200-220g,['mela'],['230gr'],189.06
+770,Mela royal gala Marlene 1 pz da circa  (280gr -300gr),['mela'],['290gr'],238.38
+459,Melone tagliato pronto al consumo,['melone'],['400gr'],384.8
+1036,Millefoglie con crema pasticcera e chantilly,['torta'],['400gr'],292.8
+684,Mirtillo nero Italia  vaschetta da 125g,['mirtilli'],['125gr'],34.5
+1045,Mousse ai 3 cioccolati,['torta'],"['100gr', '20gr']",73.2
+1048,Mousse ai tre cioccolati per 4 circa 550 gr,"['torta', 'cioccolato']","['500gr', '50gr']",1225.8
+408,Mozzarella Accadì senza lattosio 100 g Granarolo,['mozzarella'],['100gr'],711.7
+663,Mozzarella di Bufala 125 g,['mozzarella'],['125gr'],889.62
+365,Mozzarella di bufala campana Pettinicchio vaschetta 125 g,['mozzarella'],['125gr'],889.62
+178,Mozzarella di Bufala dop Campana 125 gr,['mozzarella'],['125gr'],889.62
+675,Mozzarella  Fiordilatte 125 g,['mozzarella'],['125gr'],889.62
+363,Mozzarella fior di latte Pettinicchio vaschetta 200 g,['mozzarella'],['200gr'],1423.4
+797,Muesli croccante con cioccolato,['cereali'],['400gr'],657.6
+729,Muesli di cereali e frutta,['cereali'],['400gr'],657.6
+547,Nettare Bio Almaverde - albicocca,['succo'],['200ml'],146.4
+548,Nettare Bio Almaverde - pera,['succo'],['200ml'],146.4
+550,Nettare Bio Almaverde - pesca,['succo'],['200ml'],146.4
+673,Nodini Fiordilatte 3 pz da 40 g circa,['fiordilatte'],['120gr'],381.36
+371,Nodini gusto di una volta fiordilatte 4 pz da 50 g,['fiordilatte'],['250gr'],794.5
+629,Nodino di mozzarella,['nodini'],['200gr'],10.0
+528,Nutella Ferrero,['nutella'],['450gr'],2452.5
+93,Nutella Ferrero,['nutella'],['500gr'],2725.0
+925,Panettone Milanese Tre Marie per AGAL,['panettone'],['500gr'],1570.0
+923,Panettone nocciole e gocce di cioccolato,['panettone'],['500gr'],1570.0
+924,Panettone pere e cioccolato,"['panettone', 'pere']","['500gr', '20gr']",1588.44
+1186,Panino tartaruga,['pane'],['100gr'],109.0
+1337,Pastrami,['pastrami'],['100gr'],2379.9
+1051,Pecorino romano grattugiato fresco,['pecorino'],['100gr'],317.8
+541,Pepite di formaggio stagionato 24 mesi,['formaggio'],['80gr'],404.8
+185,Pepite di formaggio stagionato  30 mesi (circa 80 g a porzione),['formaggio'],['80gr'],404.8
+19,Pera Williams 1 pz da circa 180-200g,['pera'],['200gr'],184.4
+738,Pere Carmen 1 pezzo a porzione circa 160/180 gr,['pera'],['180gr'],165.96
+716,Pere coscia 2 pezzi a porzione circa 150/160 gr,['pera'],['160gr'],147.52
+610,Pesca gialla Diamond 1 pz da 130/150 gr,['pesca'],['150gr'],136.5
+531,Pesca gialla sagittaria,['pesca'],['150gr'],136.5
+742,Pesca gialla Tardiva O'Henry 1 pz da 180/200 gr,['pesca'],['200gr'],182.0
+679,Pesca Royal Summer 1 pz da 130/150 gr,['pesca'],['150gr'],136.5
+1498,Pesca Spring Crest,['pesca'],['140gr'],127.4
+604,Pesca tabacchiera,['pesca'],['150gr'],136.5
+902,Pinot Nero Spumante Extra Dry Oltrepò Pavese,['vino'],['1l'],869.0
+772,Plumcake artigianale al cioccolato,['plumcake'],['100gr'],314.0
+771,Plumcake artigianale con yogurt ai frutti di bosco,['plumcake'],['100gr'],314.0
+112,Prosciutto cotto affettato,['prosciutto'],['100gr'],623.8
+114,Prosciutto crudo di Parma dop,['prosciutto'],['100gr'],623.8
+926,Râcà Chardonnay Oltrepò Pavese IGP - Biologico,['vino'],['1l'],869.0
+798,Rice crispies al cacao,['cereali'],['300gr'],493.2
+570,Ricotta fresca di latte di Bufala gr 250 circa,['ricotta'],['250gr'],1779.25
+367,Ricotta vaccina Granarolo 250 g,['ricotta'],['250gr'],1779.25
+545,Riso su riso Galbusera,['riso'],['200gr'],517.0
+313,Riso su riso Galbusera  200gr,['riso'],['200gr'],517.0
+664,Roast-beef  porzione da 100 gr,['roastbeef'],['100gr'],862.3
+1037,Salame cacciatorino (circa 200 g),['salame'],['200gr'],1247.6
+731,Salame cacciatorino (circa 220/260g),['salame'],['240gr'],1497.12
+620,Salame Filzetta (600g circa),['salame'],['600gr'],3742.8
+1395,Speck affettato,['speck'],['100gr'],598.8
+903,Spumante Extra Dry Vinificato in Rosato - Oltrepo Pavese,['vino'],['1l'],869.0
+908,Spumante Gran Cuvée Brut Millesimato Oltrepò Pavese Metodo Classico Docg - Blanc de noir,['vino'],['1l'],869.0
+761,Stracchino alta qualità Granarolo,['stracchino'],['100gr'],506.0
+369,Stracchino alta qualità Granarolo 100g,['stracchino'],['100gr'],506.0
+631,Stracciatella  fresca artigianale 100g,['stracciatella'],['100gr'],711.7
+552,Succo Bio Almaverde - ananas,['succo'],['300ml'],219.6
+554,Succo Bio Almaverde - arancia rossa,['succo'],['300ml'],219.6
+556,"Succo Bio Almaverde - mela, arancia, carota e limone",['succo'],['300ml'],219.6
+557,Succo Bio Almaverde - mirtillo,['succo'],['300ml'],219.6
+309,Succo/nettare Bio Almaverde 200 ml,['succo'],['200ml'],146.4
+659,Tarallini ai semi di finocchio,['tarallini'],['200gr'],10.0
+859,Tarallini alle patate,['tarallini'],['200gr'],10.0
+965,Tarallini al peperoncino,['tarallini'],['200gr'],10.0
+827,Tartelletta alla frutta,['torta'],['200gr'],146.4
+1144,Torta mimosa,['torta'],['300gr'],219.6
+1131,Torta pan di spagna e crema chantilly,['torta'],['300gr'],219.6
+1093,Tortelli di Carnevale ripieni di crema pasticcera,['torta'],['200gr'],146.4
+1096,Tortelli di carnevale senza ripieno,['torta'],['200gr'],146.4
+1010,uova sode ( ricretta interna),['uovo'],['100gr'],326.5
+736,Uva nera Palieri 1 porzione circa 150 gr,['uva'],['150gr'],91.2
+1562,Uva Rara,['uva'],['130gr'],79.04
+682,Uva Vittoria 1 porzione circa 150 gr,['uva'],['130gr'],79.04
+904,Vino Bianco Pienosole IGT Provincia di Pavia Riesling,['vino'],['1l'],869.0
+907,Vino Rosso Nildo Oltrepò Pavese,['vino'],['1l'],869.0
+555,Yogurt biologico Granarolo (150g) -  fragola,['yogurt'],['150gr'],225.0
+549,Yogurt biologico Granarolo (150gr) - mirtillo,['yogurt'],['150gr'],225.0
+551,Yogurt biologico Granarolo (150gr) - naturale,['yogurt'],['150gr'],225.0
+546,Yogurt biologico Granarolo (150gr) - vaniglia,['yogurt'],['150gr'],225.0
+228,Yogurt biologico Granarolo 150 g vasetto di vetro,['yogurt'],['150gr'],225.0
+340,Yogurt intero bianco Gusto di una volta (170 g),['yogurt'],['170gr'],255.0
+1360,Yogurt intero caffè Gusto di una volta (170gr),['yogurt'],['170gr'],255.0
+553,Yogurt intero fragola Gusto di una volta (170gr),['yogurt'],['170gr'],255.0
+1397,"Yogurt intero ""lattefieno"" al caffe 2 vasetti da 125 gr",['yogurt'],['125gr'],187.5
+1427,"Yogurt intero ""lattefieno"" alla fragola  2 vasetti da 125 gr",['yogurt'],['125gr'],187.5
+1428,"Yogurt intero ""lattefieno"" al limone  2 vasetti da 125 gr",['yogurt'],['125gr'],187.5
+1430,"Yogurt intero ""lattefieno"" bianco  2 vasetti da 125 gr",['yogurt'],['125gr'],187.5
+1431,"Yogurt intero ""lattefieno"" vaniglia  2 vasetti da 125 gr",['yogurt'],['125gr'],187.5
+1359,Yogurt intero nocciola Gusto di una volta (170gr),['yogurt'],['170gr'],255.0
+1358,Yogurt intero pistacchio Gusto di una volta (170 g),['yogurt'],['170gr'],255.0
+1156,Zeppola di San Giuseppe al forno,['zeppola'],['100gr'],298.0
+189,Zipolizia (formaggio fresco spalmabile) 100g,['formaggio'],['100gr'],506.0
+187,Zippotta (formaggio pasta molle simile all'asiago) circa 90g,['formaggio'],['100gr'],506.0
