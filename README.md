@@ -62,4 +62,30 @@ Raphael Camargo Eugenio da Silva
 
 Vanessa Biesek Bartnicki
 
-Universidade Presbiteriana Mackenzie — 2026
+Universidade Presbiteriana Mackenzie — 2026 
+
+## Como executar o projeto
+
+O projeto pode ser executado gratuitamente pelo Google Colab, sem necessidade de instalar Python no computador.
+
+### Passo a passo
+
+1. Acesse https://colab.research.google.com/.
+2. Selecione a opção GitHub na janela de abertura de notebooks.
+3. Pesquise pelo repositório `Vanessa186578/sistema-recomendacao-receitas-sustentaveis`.
+4. Abra o arquivo `notebooks/recomendacao_receitas_planeat_corrigido.ipynb`.
+5. Clique em Ambiente de execução > Executar tudo.
+6. Aguarde a execução das células para visualizar as análises, recomendações e métricas.
+
+A primeira célula copia os arquivos do repositório para o ambiente temporário do Colab. As demais células carregam os dados, executam os modelos e apresentam os resultados.
+
+### Estrutura do repositório
+
+- `dados/`: arquivos CSV da base Planeat.
+- `notebooks/`: código Python e testes do sistema de recomendação.
+- `resultados/`: tabela comparativa dos modelos.
+- `README.md`: documentação principal.
+
+### Limitações
+
+Os testes foram realizados offline, utilizando dados históricos. O indicador WF foi mantido conforme disponibilizado na base, sem atribuição de unidade física não confirmada. O sistema ainda não foi avaliado com usuários em produção.
