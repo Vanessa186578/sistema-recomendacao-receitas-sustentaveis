@@ -14,6 +14,30 @@ A proposta busca equilibrar a personalização das recomendações com a conscie
 - Incorporar o indicador de pegada hídrica ao processo de recomendação.
 - Avaliar o equilíbrio entre a relevância das recomendações e a sustentabilidade.
 
+  ## Ação extensionista — Alimentação e Consumo Consciente de Água
+
+Como parte da ação extensionista, foi desenvolvido e divulgado um formulário online para investigar os hábitos alimentares da comunidade, o conhecimento sobre pegada hídrica e o interesse em recomendações de receitas sustentáveis.
+
+**Formulário:** https://docs.google.com/forms/d/e/1FAIpQLScj7ptZBhjQEQVk4zf6h2rXSvmm0aedbLr0lXsxfuJ1zvwweg/viewform?usp=dialog
+
+### Resultados da pesquisa
+
+A pesquisa recebeu 36 respostas. Entre os principais resultados:
+
+- 75% dos participantes nunca tinham ouvido falar sobre pegada hídrica dos alimentos.
+- 86,1% afirmaram que nunca ou raramente consideram o impacto ambiental dos ingredientes ao escolher receitas.
+- 41,7% utilizariam um sistema de recomendação que considerasse preferências e pegada hídrica, enquanto 50% responderam talvez.
+- 61,1% estariam dispostos a experimentar uma receita diferente com menor pegada hídrica, desde que adequada às suas preferências.
+- 91,7% responderam sim ou talvez à possibilidade de considerar o consumo de água na escolha de receitas após conhecer essa relação.
+
+### Contribuições para o projeto
+
+Os resultados indicam uma oportunidade de ampliar a conscientização sobre a pegada hídrica dos alimentos e oferecer recomendações que conciliem preferências pessoais e sustentabilidade.
+
+As respostas foram analisadas de forma descritiva para compreender o público e orientar a proposta extensionista. Não foram utilizadas no treinamento dos modelos de recomendação.
+
+A pesquisa é exploratória e seus resultados representam apenas os participantes do formulário, não sendo generalizáveis à população.
+
 ## Base de dados
 
 O projeto utiliza dados da plataforma Planeat, disponibilizados no conjunto de dados Water Footprint Recommender System Data, da plataforma Kaggle.
