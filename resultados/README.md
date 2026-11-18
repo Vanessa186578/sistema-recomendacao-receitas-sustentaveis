@@ -4,8 +4,6 @@ Esta pasta reúne os resultados preliminares da avaliação offline dos modelos 
 
 ## Comparação dos modelos
 
-## Comparação dos modelos
-
 | Modelo | Recall@10 | Média WF |
 |---|---:|---:|
 | Popularidade | 17,88% | 556,75 |
