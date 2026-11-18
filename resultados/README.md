@@ -15,8 +15,8 @@ Esta pasta reúne os resultados preliminares da avaliação offline dos modelos 
 ## Principais observações
 
 - O modelo colaborativo apresentou o maior Recall@10.
-- O ajuste sustentável reduziu em aproximadamente 33,7% a média do indicador WF em relação ao modelo colaborativo original.
-- A queda relativa no Recall@10 foi de aproximadamente 4,2%.
+- O ajuste sustentável reduziu aproximadamente 33,4% da média do indicador WF.
+- A queda relativa no Recall@10 foi de aproximadamente 5,8%.
 - Os resultados foram obtidos em testes offline com dados históricos.
 
 ## Limitações
