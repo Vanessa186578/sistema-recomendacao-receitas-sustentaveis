@@ -28,7 +28,13 @@ A pesquisa recebeu 36 respostas. Entre os principais resultados:
 - 86,1% afirmaram que nunca ou raramente consideram o impacto ambiental dos ingredientes ao escolher receitas.
 - 41,7% utilizariam um sistema de recomendação que considerasse preferências e pegada hídrica, enquanto 50% responderam talvez.
 - 61,1% estariam dispostos a experimentar uma receita diferente com menor pegada hídrica, desde que adequada às suas preferências.
-- 91,7% responderam sim ou talvez à possibilidade de considerar o consumo de água na escolha de receitas após conhecer essa relação.
+- 91,7% responderam sim ou talvez à possibilidade de considerar o consumo de água na escolha de receitas após conhecer essa relação.]
+
+  ### Relatório da ação extensionista
+
+Os resultados consolidados da pesquisa, a metodologia e a análise das respostas estão disponíveis no [Relatório da Ação Extensionista](documentacao/relatorio_acao_extensionista.md).
+
+O relatório apresenta apenas dados agregados, sem divulgar respostas individuais dos participantes.
 
 ### Contribuições para o projeto
 
