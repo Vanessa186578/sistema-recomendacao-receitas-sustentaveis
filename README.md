@@ -14,7 +14,7 @@ A proposta busca equilibrar a personalização das recomendações com a conscie
 - Incorporar o indicador de pegada hídrica ao processo de recomendação.
 - Avaliar o equilíbrio entre a relevância das recomendações e a sustentabilidade.
 
-  ## Ação extensionista — Alimentação e Consumo Consciente de Água
+## Ação extensionista — Alimentação e Consumo Consciente de Água
 
 Como parte da ação extensionista, foi desenvolvido e divulgado um formulário online para investigar os hábitos alimentares da comunidade, o conhecimento sobre pegada hídrica e o interesse em recomendações de receitas sustentáveis.
 
@@ -30,7 +30,7 @@ A pesquisa recebeu 36 respostas. Entre os principais resultados:
 - 61,1% estariam dispostos a experimentar uma receita diferente com menor pegada hídrica, desde que adequada às suas preferências.
 - 91,7% responderam sim ou talvez à possibilidade de considerar o consumo de água na escolha de receitas após conhecer essa relação.]
 
-  ### Relatório da ação extensionista
+## Relatório da ação extensionista
 
 Os resultados consolidados da pesquisa, a metodologia e a análise das respostas estão disponíveis no [Relatório da Ação Extensionista](documentacao/relatorio_acao_extensionista.md).
 
