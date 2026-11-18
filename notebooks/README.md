@@ -22,4 +22,4 @@ Esta pasta é destinada aos notebooks utilizados no desenvolvimento do sistema d
 
 Os modelos são avaliados utilizando Precision@10, Recall@10 e a média do indicador WF das receitas recomendadas.
 
-Os notebooks com os códigos e testes serão adicionados a esta pasta.
+O notebook `recomendacao_receitas_planeat_corrigido.ipynb` contém a implementação e a avaliação dos cinco modelos de recomendação.
