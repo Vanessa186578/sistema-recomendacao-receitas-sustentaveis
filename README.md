@@ -44,11 +44,13 @@ O desempenho dos modelos foi comparado por meio das métricas:
 
 ## Resultados principais
 
-A abordagem colaborativa com ajuste sustentável apresentou uma redução aproximada de 33,7% na média do indicador WF das receitas recomendadas, em comparação com o modelo colaborativo original.
+Na reconstrução dos testes, o modelo colaborativo apresentou Recall@10 de 19,37% e média WF de 420,04.
 
-Essa redução ocorreu com uma queda relativa aproximada de 4,2% no Recall@10, indicando um equilíbrio inicial entre personalização e sustentabilidade.
+Com a inclusão do critério de sustentabilidade, o Recall@10 passou para 18,25% e a média WF foi reduzida para 279,78.
 
-Os resultados foram obto e Produção Responsáveis, da Organização das Nações Unidas (ONU).
+Isso representa uma redução aproximada de 33,4% na média do indicador WF, com uma queda relativa de aproximadamente 5,8% no Recall@10.
+
+Os resultados foram obtidos por avaliação offline, utilizando dados históricos da plataforma Planeat. Não representam uma validação com usuários em tempo real.
 
 Autores
 
