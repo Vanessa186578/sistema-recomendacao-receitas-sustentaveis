@@ -110,7 +110,7 @@ A primeira célula copia os arquivos do repositório para o ambiente temporário
 
 Apresentação do desenvolvimento do sistema de recomendação de receitas sustentáveis, incluindo objetivos, metodologia, técnicas implementadas, resultados, limitações e trabalhos futuros.
 
-**Vídeo:** [Inserir link da apresentação no YouTube]
+**Vídeo:** https://youtu.be/zoXtcWeEnZY?si=58w0NQTP3m7219D8
 
 ### Ação Extensionista — Educação sobre Pegada Hídrica
 
