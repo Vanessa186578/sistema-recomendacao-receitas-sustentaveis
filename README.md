@@ -82,18 +82,6 @@ Isso representa uma redução aproximada de 33,4% na média do indicador WF, com
 
 Os resultados foram obtidos por avaliação offline, utilizando dados históricos da plataforma Planeat. Não representam uma validação com usuários em tempo real.
 
-## Autores
-
-Felipe dos Santos Costa
-
-Felipe Yuji Nakanishi
-
-Raphael Camargo Eugenio da Silva
-
-Vanessa Biesek Bartnicki
-
-Universidade Presbiteriana Mackenzie — 2026 
-
 ## Como executar o projeto
 
 O projeto pode ser executado gratuitamente pelo Google Colab, sem necessidade de instalar Python no computador.
@@ -115,6 +103,34 @@ A primeira célula copia os arquivos do repositório para o ambiente temporário
 - `notebooks/`: código Python e testes do sistema de recomendação.
 - `resultados/`: tabela comparativa dos modelos.
 - `README.md`: documentação principal.
+  
+## Vídeos do Projeto
+
+### Apresentação Acadêmica — Projeto Aplicado III
+
+Apresentação do desenvolvimento do sistema de recomendação de receitas sustentáveis, incluindo objetivos, metodologia, técnicas implementadas, resultados, limitações e trabalhos futuros.
+
+**Vídeo:** [Inserir link da apresentação no YouTube]
+
+### Ação Extensionista — Educação sobre Pegada Hídrica
+
+Vídeo educativo produzido para compartilhar com a comunidade o conceito de pegada hídrica, sua relação com os alimentos e a importância de escolhas alimentares conscientes.
+
+**Vídeo:** https://youtu.be/a6BsKn36Nns
+
+A ação extensionista também incluiu uma pesquisa online com 36 participantes, utilizada para identificar conhecimentos e percepções da comunidade sobre alimentação e sustentabilidade.
+
+## Autores
+
+Felipe dos Santos Costa
+
+Felipe Yuji Nakanishi
+
+Raphael Camargo Eugenio da Silva
+
+Vanessa Biesek Bartnicki
+
+Universidade Presbiteriana Mackenzie — 2026 
 
 ### Limitações
 
